@@ -87,7 +87,6 @@
                                                             
                             <div class="col-xs-12 col-sm-12 blog-content">
                                 
-                                <h4>Consequat bibendum quam liquam viverra</h4>
                                 <?php
                             include("includes/connect.php");
 
