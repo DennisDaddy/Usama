@@ -141,49 +141,37 @@
                     </div><!--/.search-->
                     
                     <div class="widget categories">
-                        <h3>Recent Comments</h3>
+                        <h3>Recent News</h3>
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="single_comments">
-                                    <img src="images/blog/avatar3.png" alt=""  />
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do </p>
-                                    <div class="entry-meta small muted">
-                                        <span>By <a href="#">Alex</a></span>
-                                    </div>
-                                </div>
-                                <div class="single_comments">
-                                    <img src="images/blog/avatar3.png" alt=""  />
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do </p>
-                                    <div class="entry-meta small muted">
-                                        <span>By <a href="#">Alex</a></span> 
-                                    </div>
-                                </div>
-                                <div class="single_comments">
-                                    <img src="images/blog/avatar3.png" alt=""  />
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do </p>
-                                    <div class="entry-meta small muted">
-                                        <span>By <a href="#">Alex</a></span>
-                                    </div>
+                                <?php
+                include("includes/connect.php");
+            
+                $query = "select * from blog order by 1 DESC LIMIT 0,3";
+            
+                $run =mysqli_query($con,$query);
+            
+            while ($row=mysqli_fetch_array($run)) {
+            
+                $blog_id =$row['blog_id'];
+                $title =$row['blog_title'];
+                $image =$row['blog_image'];
+               
+                ?>
+                <a href="blogpages.php?id=<?php echo $blog_id; ?>">
+                 <p><?php echo $title; ?></p></a>
+                                <img width="140" height="100" <img src='images2/uploads/<?php echo $image; ?>' >
+                                       
+                                <p class="post-date"><b><?php echo $blog_date; ?></b></p>
+                                 <?php } ?>
+
                                 </div>
                                 
                             </div>
                         </div>                     
                     </div><!--/.recent comments-->
-                     
-
-                    <div class="widget categories">
-                        <h3>Categories</h3>
-                        <div class="row">
-                            <div class="col-sm-6">
-                                <ul class="blog_category">
-                                    <li><a href="#">Computers <span class="badge">04</span></a></li>
-                                    <li><a href="#">Smartphone <span class="badge">10</span></a></li>
-                                    <li><a href="#">Gedgets <span class="badge">06</span></a></li>
-                                    <li><a href="#">Technology <span class="badge">25</span></a></li>
-                                </ul>
-                            </div>
-                        </div>                     
-                    </div><!--/.categories-->        
+                           
                 </aside>  
             </div><!--/.row-->
         </div>
