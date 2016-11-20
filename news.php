@@ -74,13 +74,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Blog</h1>
+                    <h1>News</h1>
                    
                 </div>
                 <div class="col-sm-6">
                     <ul class="breadcrumb pull-right">
                         <li><a href="index.html">Home</a></li>
-                        <li class="active">Blog</li>
+                        <li class="active">News</li>
                     </ul>
                 </div>
             </div>
