@@ -55,7 +55,7 @@ while ($row=mysqli_fetch_array($run)) {
 	<td><?php echo $blog_title; ?></td>
 	<td><img src="../images2/uploads/<?php echo $blog_image; ?>"width="80" height="80" </td>
 	<td><?php echo $blog_content; ?></td>
-	<td><a href="delete.php?del=<?php echo $blog_id; ?>">Delete</a></td>
+	<td><a href="deleteblog.php?dele=<?php echo $blog_id; ?>">Delete</a></td>
 	
 	
 </tr> 

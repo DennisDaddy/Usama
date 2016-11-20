@@ -10,7 +10,7 @@ if (isset($_GET['dele'])) {
 		# code..
 		echo "<script> alert('Blog has been Deleted') </script>";
 		echo 
-		"<script> window.open('view_jblog.php','_self') </script>";
+		"<script> window.open('view_blog.php','_self') </script>";
 	}
 
 }
