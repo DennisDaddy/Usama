@@ -84,16 +84,8 @@
                  <div class="col-md-8">
                     <div class="blog-item">
                         <div class="row">
-                            <div class="col-xs-12 col-sm-2">
-                                <div class="entry-meta">
-                                    <span id="publish_date">07  JUNY</span>
-                                    <span><i class="fa fa-user"></i> <a href="#">John Doe</a></span>
-                                    <span><i class="fa fa-comment"></i> <a href="#">2 Comments</a></span>
-                                    <span><i class="fa fa-heart"></i><a href="#">56 Likes</a></span>
-                                </div>
-                            </div>
-                                
-                            <div class="col-xs-12 col-sm-10 blog-content">
+                                                            
+                            <div class="col-xs-12 col-sm-12 blog-content">
                                 
                                 <h4>Consequat bibendum quam liquam viverra</h4>
                                 <?php
