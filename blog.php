@@ -141,7 +141,7 @@
                     </div><!--/.search-->
                     
                     <div class="widget categories">
-                        <h3>Recent News</h3>
+                        <h3>Recent Blog</h3>
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="single_comments">

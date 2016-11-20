@@ -90,22 +90,26 @@
                                 <?php
                             include("includes/connect.php");
 
-                            $select_posts ="select * from blog order by rand() LIMIT 0,4";
+                            if (isset($_GET['id'])) {
+                                # code...
+                                $page_id =$_GET['id'];
+                                $select_query = "select * from blog where blog_id='$page_id'";
+                            }
+                            $run_query =mysqli_query($con,$select_query);
 
-                            $run_posts =mysqli_query($con,$select_posts);
-
-                            while ($row=mysqli_fetch_array($run_posts)) {
+                            while ($row=mysqli_fetch_array($run_query)) {
+                                # code...
                                 $blog_id =$row['blog_id'];
                                 $blog_title =$row['blog_title'];
                                 $blog_date =$row['blog_date'];
                                 $blog_author =$row['blog_author'];
                                 $blog_image =$row['blog_image'];
-                                $blog_content =substr($row['blog_content'],0,200);
+                                $blog_content =$row['blog_content'];
                                 
 
 
 
-                            ?>
+                         ?>
                                 
                                 <h2> 
                                     <a href="blogpages.php?id=<?php echo $blog_id; ?>">
@@ -121,7 +125,7 @@
 
                                 <p align="justify"><?php echo $blog_content; ?></p>
 
-                                <p align="right"> <a href="blogpages.php?id=<?php echo $blog_id; ?>" class="btn btn-primary readmore">// Read More &gt;<i class="fa fa-angle-right"></i></a></p>
+                                
                                 <hr>
 
 
@@ -141,7 +145,7 @@
                     </div><!--/.search-->
                     
                     <div class="widget categories">
-                        <h3>Recent News</h3>
+                        <h3>Recent Blog</h3>
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="single_comments">
