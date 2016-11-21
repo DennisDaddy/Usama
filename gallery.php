@@ -94,7 +94,7 @@
                     <img src="images/portfolio/thumb/3.jpg" alt="">
                    
                     <div class="overlay">
-                        <a class="preview btn btn-danger" href="images/portfolio/full/item3.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>        
+                        <a class="preview btn btn-danger" href="images/portfolio/full/3.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>        
                     </div>           
                 </div>           
             </li><!--/.portfolio-item-->
