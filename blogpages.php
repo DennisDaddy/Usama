@@ -40,22 +40,22 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html"><h2>Usama Mukwaya</h2></a>
+                <a class="navbar-brand" href="index.php"><h2>Usama Mukwaya</h2></a>
             </div>
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="filmology.html">Filmology</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="filmology.php">Filmology</a></li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Osam <i class="icon-angle-down"></i></a>
                         <ul class="dropdown-menu">
-                           <li><a href="news.html">News</a></li>
-                           <li><a href="gallery.html">Gallery</a></li>
-                           <li><a href="awards.html">Awards</a></li>
+                           <li><a href="news.php">News</a></li>
+                           <li><a href="gallery.php">Gallery</a></li>
+                           <li><a href="awards.php">Awards</a></li>
                         </ul>
                     </li>
-                    <li><a href="blog.html">Blog</a></li> 
-                    <li><a href="contact-us.html">Contact</a></li>
+                    <li><a href="blog.php">Blog</a></li> 
+                    <li><a href="contact-us.php">Contact</a></li>
                 </ul>
             </div>
         </div>
@@ -70,7 +70,7 @@
                 </div>
                 <div class="col-sm-6">
                     <ul class="breadcrumb pull-right">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li class="active">Blog</li>
                     </ul>
                 </div>
