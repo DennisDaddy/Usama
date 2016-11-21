@@ -225,15 +225,14 @@
                     <h4>Custom Menu</h4>
                     <div>
                         <ul class="arrow">
-                            <li><a href="#">Company Overview</a></li>
-                            <li><a href="#">Meet The Team</a></li>
-                            <li><a href="#">Our Awesome Partners</a></li>
-                            <li><a href="#">Our Services</a></li>
-                            <li><a href="#">Frequently Asked Questions</a></li>
-                            <li><a href="#">Conatct Us</a></li>
-                            <li><a href="#">Privacy Policy</a></li>
-                            <li><a href="#">Terms of Use</a></li>
-                            <li><a href="#">Copyright</a></li>
+                            <li><a href="filmology.php">Filmology</a></li>
+                            <li><a href="news.php">News</a></li>
+                            <li><a href="awards.php">Awards</a></li>
+                             <li><a href="gallery.php">Gallery</a></li>
+                            <li><a href="blog.php">Blog</a></li>
+                            <li><a href="community.php">Community</a></li>
+                            <li><a href="contact.php">Contact Us</a></li>
+                           
                         </ul>
                     </div>
                 </div><!--/.col-md-3-->
