@@ -46,7 +46,7 @@
                         </ul>
                     </li>
                     <li><a href="blog.php">Blog</a></li> 
-                    <li><a href="contact-us.php">Contact</a></li>
+                    <li><a href="contact.php">Contact</a></li>
                 </ul>
             </div>
         </div>
@@ -60,7 +60,7 @@
                 </div>
                 <div class="col-sm-6">
                     <ul class="breadcrumb pull-right">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li class="active">Gallery</li>
                     </ul>
                 </div>
