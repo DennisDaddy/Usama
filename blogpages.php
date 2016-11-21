@@ -181,7 +181,7 @@
         </div>
     </section><!--/#blog-->
 
-    <section id="bottom" class="wet-asphalt">
+   <section id="bottom" class="wet-asphalt">
         <div class="container">
             <div class="row">
                 <div class="col-md-3 col-sm-6">
@@ -189,31 +189,39 @@
                      <div>
                         <div class="media">
                             <div class="pull-left">
-                                <img src="images/blog/thumb1.jpg" alt="">
+                                
                             </div>
                             <div class="media-body">
-                                <span class="media-heading"><a href="#">Pellentesque habitant morbi tristique senectus</a></span>
-                                <small class="muted">Posted 17 Aug 2013</small>
+                                <?php
+                include("includes/connect.php");
+            
+                $query = "select * from blog order by 1 DESC LIMIT 0,3";
+            
+                $run =mysqli_query($con,$query);
+            
+            while ($row=mysqli_fetch_array($run)) {
+            
+                $blog_id =$row['blog_id'];
+                $title =$row['blog_title'];
+                $blog_date =$row['blog_date'];
+                $image =$row['blog_image'];
+               
+                ?>
+                <a href="blogpages.php?id=<?php echo $blog_id; ?>">
+                       
+               <span class="media-heading"><?php echo $title; ?></span></a>
+                 <p><b><?php echo $blog_date; ?></b></p>
+                  
+                   
+            
+               
+                                
+                                 <?php } ?>
+                            
                             </div>
                         </div>
-                        <div class="media">
-                            <div class="pull-left">
-                                <img src="images/blog/thumb2.jpg" alt="">
-                            </div>
-                            <div class="media-body">
-                                <span class="media-heading"><a href="#">Pellentesque habitant morbi tristique senectus</a></span>
-                                <small class="muted">Posted 13 Sep 2013</small>
-                            </div>
-                        </div>
-                        <div class="media">
-                            <div class="pull-left">
-                                <img src="images/blog/thumb3.jpg" alt="">
-                            </div>
-                            <div class="media-body">
-                                <span class="media-heading"><a href="#">Pellentesque habitant morbi tristique senectus</a></span>
-                                <small class="muted">Posted 11 Jul 2013</small>
-                            </div>
-                        </div>
+                        
+                        
                     </div>  
                 </div><!--/.col-md-3-->
 
@@ -221,15 +229,14 @@
                     <h4>Custom Menu</h4>
                     <div>
                         <ul class="arrow">
-                            <li><a href="#">Company Overview</a></li>
-                            <li><a href="#">Meet The Team</a></li>
-                            <li><a href="#">Our Awesome Partners</a></li>
-                            <li><a href="#">Our Services</a></li>
-                            <li><a href="#">Frequently Asked Questions</a></li>
-                            <li><a href="#">Conatct Us</a></li>
-                            <li><a href="#">Privacy Policy</a></li>
-                            <li><a href="#">Terms of Use</a></li>
-                            <li><a href="#">Copyright</a></li>
+                            <li><a href="filmology.php">Filmology</a></li>
+                            <li><a href="news.php">News</a></li>
+                            <li><a href="awards.php">Awards</a></li>
+                             <li><a href="gallery.php">Gallery</a></li>
+                            <li><a href="blog.php">Blog</a></li>
+                            <li><a href="community.php">Community</a></li>
+                            <li><a href="contact.php">Contact Us</a></li>
+                           
                         </ul>
                     </div>
                 </div><!--/.col-md-3-->
@@ -239,29 +246,36 @@
                     <div>
                         <div class="media">
                             <div class="pull-left">
-                                <img src="images/blog/thumb1.jpg" alt="">
+                                
+                                
                             </div>
                             <div class="media-body">
-                                <span class="media-heading"><a href="#">Pellentesque habitant morbi tristique senectus</a></span>
-                                <small class="muted">Posted 17 Aug 2013</small>
-                            </div>
-                        </div>
-                        <div class="media">
-                            <div class="pull-left">
-                                <img src="images/blog/thumb2.jpg" alt="">
-                            </div>
-                            <div class="media-body">
-                                <span class="media-heading"><a href="#">Pellentesque habitant morbi tristique senectus</a></span>
-                                <small class="muted">Posted 13 Sep 2013</small>
-                            </div>
-                        </div>
-                        <div class="media">
-                            <div class="pull-left">
-                                <img src="images/blog/thumb3.jpg" alt="">
-                            </div>
-                            <div class="media-body">
-                                <span class="media-heading"><a href="#">Pellentesque habitant morbi tristique senectus</a></span>
-                                <small class="muted">Posted 11 Jul 2013</small>
+
+                                <?php
+                include("includes/connect.php");
+            
+                $query = "select * from blog order by 1 DESC LIMIT 0,3";
+            
+                $run =mysqli_query($con,$query);
+            
+            while ($row=mysqli_fetch_array($run)) {
+            
+                $blog_id =$row['blog_id'];
+                $title =$row['blog_title'];
+                $blog_date =$row['blog_date'];
+                $image =$row['blog_image'];
+               
+                ?>
+                <a href="blogpages.php?id=<?php echo $blog_id; ?>">
+                       
+                 <span class="media-heading"><?php echo $title; ?></span></a>
+                 <p><b><?php echo $blog_date; ?></b></p>
+                  
+                   
+            
+               
+                                
+                                 <?php } ?>
                             </div>
                         </div>
                     </div>  
