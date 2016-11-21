@@ -61,7 +61,7 @@
                 </div>
                 <div class="col-sm-6">
                     <ul class="breadcrumb pull-right">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                        
                         <li class="active">Filmology</li>
                     </ul>
