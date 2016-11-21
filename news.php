@@ -106,7 +106,7 @@
                             ?>
                                 
                                 <h2> 
-                                    <a href="postpages.php?id=<?php echo $post_id; ?>">
+                                    <a href="newspages.php?id=<?php echo $post_id; ?>">
                                       <?php echo $post_title; ?>
                                     </a>
                                 </h2>
