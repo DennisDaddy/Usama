@@ -119,7 +119,7 @@
 
                                 <p align="justify"><?php echo $post_content; ?></p>
 
-                                <p align="right"> <a href="postpages.php?id=<?php echo $post_id; ?>" class="btn btn-primary readmore">// Read More &gt;<i class="fa fa-angle-right"></i></a></p>
+                                <p align="right"> <a href="newspages.php?id=<?php echo $post_id; ?>" class="btn btn-primary readmore">// Read More &gt;<i class="fa fa-angle-right"></i></a></p>
                                 <hr>
 
 
