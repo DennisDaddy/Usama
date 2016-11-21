@@ -371,9 +371,10 @@
                 </div>
                 <div class="col-sm-6">
                     <ul class="pull-right">
-                        <li><a href="#">Facebook</a></li>
-                        <li><a href="#">Twitter</a></li>
-                        <li><a href="#">Youtube</a></li>
+                        <li><a href="https://www.facebook.com/OnlineUsama">Facebook</a></li>
+                        <li><a href="https://twitter.com/usamamukwaya">Twitter</a></li>
+                        <li><a href="https://www.youtube.com/user/TheUgmovies">Youtube</a></li>
+                        <li><a href="https://plus.google.com/+UsamaMukwaya">Google Plus</a></li>
                         
                         <li><a id="gototop" class="gototop" href="#"><i class="icon-chevron-up"></i></a></li><!--#gototop-->
                     </ul>
