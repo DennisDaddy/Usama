@@ -59,13 +59,15 @@
                 <li data-target="#main-slider" data-slide-to="2"></li>
             </ol>
             <div class="carousel-inner">
-                <div class="item active" style="background-image: url(images/slider/bg4.jpg)">
+                <div class="item active" style="background-image: url(images/slider/bg6.jpg)">
                     <div class="container">
                         <div class="row">
-                            <div class="col-sm-12">
-                                <div class="carousel-content centered">
-                                    <h2 class="animation animated-item-1">Amakula Int’l Film Festival </h2>
-                                    <p class="animation animated-item-2">Welcome to my abracadabra world! Growing up in a humble, religious family and environment...</p>
+                            <div class="col-sm-6">
+                                <div class="carousel-content center centered">
+                                    <h2 class="boxed animation animated-item-1">Young Achiever in Film and Television Awards</h2>
+                                    <p class="boxed animation animated-item-2">Young Achiever in Film and Television </p>
+                                    <br>
+                                    <a class="btn btn-md animation animated-item-3" href="awards.php">Learn More</a>
                                 </div>
                             </div>
                         </div>
@@ -74,28 +76,28 @@
                 <div class="item" style="background-image: url(images/slider/bg5.jpg)">
                     <div class="container">
                         <div class="row">
-                            <div class="col-sm-12">
+                            <div class="col-sm-6">
                                 <div class="carousel-content center centered">
-                                    <h2 class="boxed animation animated-item-1">Young Achiever in Film and Television Awards</h2>
-                                    <p class="boxed animation animated-item-2">Some people around me believe I have achieved all that it takes to be a thriving filmmaker but to me, it’s more history to make in the budding Ugandan film industry. </p>
+                                    <h2 class="boxed animation animated-item-1">Helsinki African Film Festival </h2>
+                                    <p class="boxed animation animated-item-2">Jury Award for Human Rights and Social Commentary. ‘Bala Bala Sese'</p>
                                     <br>
-                                    <a class="btn btn-md animation animated-item-3" href="awards.php">Learn More</a>
+                                    <a class="btn btn-md animation animated-item-2" href="awards.php">Learn More</a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div><!--/.item-->
-                <div class="item" style="background-image: url(images/slider/bg6.jpg)">
+                <div class="item" style="background-image: url(images/slider/bg4.jpg)">
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-6">
-                                <div class="carousel-content centered">
-                                    <h2 class="animation animated-item-1">Bala Bala Sese        2015</h2>
-                                    <p class="animation animated-item-2">An incredible story of boyfriend's battle for love through perseverance. In the outskirts of Sese Island</p>
-                                    <a class="btn btn-md animation animated-item-3" href="filmology.php">Learn More</a>
+                                <div class="carousel-content center centered">
+                                    <h2 class="boxed animation animated-item-1">African Movie Academy Awards </h2>
+                                    <p class="boxed animation animated-item-2">Best Film in an African Language; 'Bala Bala Sese'. </p>
+                                    <br>
+                                    <a class="btn btn-md animation animated-item-2" href="awards.php">Learn More</a>
                                 </div>
                             </div>
-                            
                         </div>
                     </div>
                 </div><!--/.item-->

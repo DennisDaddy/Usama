@@ -95,10 +95,11 @@
                         </div>
                     </div>
                     </form>
+                    
             </div><!--/.col-sm-8-->
             <div class="col-sm-4">
                 <h4>Our Location</h4>
-                <iframe width="100%" height="215" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d4084414.3338354435!2d32.304649999999995!3d1.3651499999999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sug!4v1479851728893"></iframe>
+                <iframe width="100%" height="215" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127672.26884318159!2d32.52908433918015!3d0.3140102822760062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177dbc0f9d74b39b%3A0x4538903dd96b6fec!2sKampala!5e0!3m2!1sen!2sug!4v1479852255915"></iframe>
             </div><!--/.col-sm-4-->
         </div>
     </section><!--/#contact-page-->
