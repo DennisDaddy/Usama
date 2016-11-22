@@ -72,7 +72,7 @@
     <section id="about-us" class="container">
         <div class="row">
             <div class="col-sm-8">
-            <img class="img-responsive img-thumbnail" src="images/blog/me 1b.bmp" width="100%" alt="" />
+            <img class="img-responsive img-thumbnail" src="images/blog/me 1b.jpg" width="100%" alt="" />
              </div><!--/.col-sm-6-->
             <div class="col-sm-4">
                 <h2>Awards</h2>

@@ -70,35 +70,37 @@
 
     <section id="portfolio" class="container">
         
-        <ul class="portfolio-items col-3">
-            <li class="portfolio-item apps">
-                <div class="item-inner">
-                    <img src="images/portfolio/thumb/1.jpg" width="50" alt="">
-                    
-                    <div class="overlay">
-                        <a class="preview btn btn-danger" href="images/portfolio/full/1.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>             
-                    </div>           
-                </div>           
-            </li><!--/.portfolio-item-->
-            <li class="portfolio-item joomla bootstrap">
-                <div class="item-inner">
-                    <img src="images/portfolio/thumb/2.jpg" alt="">
-                  
-                    <div class="overlay">
-                        <a class="preview btn btn-danger" href="images/portfolio/full/2.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>              
-                    </div>           
-                </div>           
-            </li><!--/.portfolio-item-->
-            <li class="portfolio-item bootstrap wordpress">
-                <div class="item-inner">
-                    <img src="images/portfolio/thumb/3.jpg" alt="">
-                   
-                    <div class="overlay">
-                        <a class="preview btn btn-danger" href="images/portfolio/full/3.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>        
-                    </div>           
-                </div>           
-            </li><!--/.portfolio-item-->
-        </ul>
+        <div class="col-md-3 step">
+      <a href="images/1.jpg"><img src="images/1.jpg" data-lity class="img-thumbnail" /></a>        
+      </div>
+
+      <div class="col-md-3 step">
+      <a href="images/1.jpg"><img src="images/1.jpg" data-lity class="img-thumbnail" /></a>        
+      </div>
+
+      <div class="col-md-3 step">
+      <a href="images/1.jpg"><img src="images/1.jpg" data-lity class="img-thumbnail" /></a>        
+      </div>
+
+      <div class="col-md-3 step">
+      <a href="images/1.jpg"><img src="images/1.jpg" data-lity class="img-thumbnail" /></a>        
+      </div>
+
+      <div class="col-md-3 step">
+      <a href="images/1.jpg"><img src="images/1.jpg" data-lity class="img-thumbnail" /></a>        
+      </div>
+
+      <div class="col-md-3 step">
+      <a href="images/1.jpg"><img src="images/1.jpg" data-lity class="img-thumbnail" /></a>        
+      </div>
+
+      <div class="col-md-3 step">
+      <a href="images/1.jpg"><img src="images/1.jpg" data-lity class="img-thumbnail" /></a>        
+      </div>
+
+      <div class="col-md-3 step">
+      <a href="images/1.jpg"><img src="images/1.jpg" data-lity class="img-thumbnail" /></a>        
+      </div>
     </section><!--/#portfolio-->
 
     <section id="bottom" class="wet-asphalt">

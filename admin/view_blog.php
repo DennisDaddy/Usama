@@ -43,7 +43,7 @@ while ($row=mysqli_fetch_array($run)) {
 	$blog_author =$row['blog_author'];
 	$blog_title =$row['blog_title'];
 	$blog_image =$row['blog_image'];
-	$blog_content =substr($row['blog_content'],0,100);
+	$blog_content =substr($row['blog_content'],0,50);
 	
 
 ?>
