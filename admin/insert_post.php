@@ -74,7 +74,7 @@ if (isset($_POST['submit'])) {
 	 }
 
 	 else{
-	 	move_uploaded_file($image_tmp,"../images/$post_image");
+	 	move_uploaded_file($image_tmp,"../images2/uploads/$post_image");
 	 	$insert_query ="insert into posts(post_title,post_date,post_author,post_image,post_keywords,post_content) values('$post_title','$post_date','$post_author','$post_image','$post_keywords','$post_content')";  
 	 	if (mysqli_query($con,$insert_query)) {
 	 		# code...

@@ -94,11 +94,11 @@
                             <textarea name="message" id="message" required="required" class="form-control" rows="8" placeholder="Message"></textarea>
                         </div>
                     </div>
-                </form>
+                    </form>
             </div><!--/.col-sm-8-->
             <div class="col-sm-4">
                 <h4>Our Location</h4>
-                <iframe width="100%" height="215" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.au/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Dhaka,+Dhaka+Division,+Bangladesh&amp;aq=0&amp;oq=dhaka+ban&amp;sll=40.714353,-74.005973&amp;sspn=0.836898,1.815491&amp;ie=UTF8&amp;hq=&amp;hnear=Dhaka+Division,+Bangladesh&amp;t=m&amp;ll=24.542126,90.293884&amp;spn=0.124922,0.411301&amp;z=8&amp;output=embed"></iframe>
+                <iframe width="100%" height="215" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d4084414.3338354435!2d32.304649999999995!3d1.3651499999999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sug!4v1479851728893"></iframe>
             </div><!--/.col-sm-4-->
         </div>
     </section><!--/#contact-page-->
