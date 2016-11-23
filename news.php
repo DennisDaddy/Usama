@@ -47,18 +47,18 @@
             </div>
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="index.php">Home</a></li>
-                    <li><a href="filmology.php">Filmology</a></li>
+                    <li><a href="index.php"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
+                    <li><a href="filmology.php"><i class="fa fa-film" aria-hidden="true"></i> Filmology</a></li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Osam <i class="icon-angle-down"></i></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user" aria-hidden="true"></i> Osam <i class="icon-angle-down"></i></a>
                         <ul class="dropdown-menu">
                            <li><a href="news.php">News</a></li>
                            <li><a href="gallery.php">Gallery</a></li>
                            <li><a href="awards.php">Awards</a></li>
                         </ul>
                     </li>
-                    <li><a href="blog.php">Blog</a></li> 
-                    <li><a href="contact.php">Contact</a></li>
+                    <li><a href="blog.php"><i class="fa fa-pencil" aria-hidden="true"></i> Blog</a></li> 
+                    <li><a href="contact.php"><i class="fa fa-phone" aria-hidden="true"></i> Contact</a></li>
                 </ul>
             </div>
         </div>
