@@ -15,6 +15,9 @@
     <script src="js/html5shiv.js"></script>
     <script src="js/respond.min.js"></script>
     <![endif]-->       
+
+<script src="https://use.fontawesome.com/4d0c79038f.js"></script>
+
     <link rel="shortcut icon" href="images/ico/favicon.ico">
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114-precomposed.png">
@@ -100,7 +103,7 @@
                                 $post_date =$row['post_date'];
                                 $post_author =$row['post_author'];
                                 $post_image =$row['post_image'];
-                                $post_content =substr($row['post_content'],0,200);
+                                $post_content =substr($row['post_content'],0,500);
                                                            
 
                             ?>
@@ -306,10 +309,10 @@
                 </div>
                 <div class="col-sm-6">
                     <ul class="pull-right">
-                        <li><a href="https://www.facebook.com/OnlineUsama">Facebook</a></li>
-                        <li><a href="https://twitter.com/usamamukwaya">Twitter</a></li>
-                        <li><a href="https://www.youtube.com/user/TheUgmovies">Youtube</a></li>
-                        <li><a href="https://plus.google.com/+UsamaMukwaya">Google Plus</a></li>
+                        <li><a href="https://www.facebook.com/OnlineUsama"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+                        <li><a href="https://twitter.com/usamamukwaya"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                        <li><a href="https://www.youtube.com/user/TheUgmovies"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+                        <li><a href="https://plus.google.com/+UsamaMukwaya"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
                         <li><a id="gototop" class="gototop" href="#"><i class="icon-chevron-up"></i></a></li><!--#gototop-->
                     </ul>
                 </div>

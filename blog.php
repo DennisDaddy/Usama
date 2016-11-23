@@ -100,7 +100,7 @@
                                 $blog_date =$row['blog_date'];
                                 $blog_author =$row['blog_author'];
                                 $blog_image =$row['blog_image'];
-                                $blog_content =substr($row['blog_content'],0,200);
+                                $blog_content =substr($row['blog_content'],0,500);
                                 
 
 
