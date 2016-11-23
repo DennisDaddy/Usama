@@ -115,8 +115,10 @@
 
                                 <p>Published On: <b><?php echo $blog_date; ?></b></p>
                                 <p><i></i> <span>By: <b><?php echo $blog_author; ?></b></span></p>
+                                <div id="single_post">
                                 
-                                <img  src="images2/uploads/<?php echo $blog_image; ?>" width="100%" height="10%"  />
+                                <img  src="images2/uploads/<?php echo $blog_image; ?>" width="100%" height="450" />
+                                </div>
                                  
 
                                 <p align="justify"><?php echo $blog_content; ?></p>
