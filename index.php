@@ -111,7 +111,7 @@
         </a>
     </section><!--/#main-slider-->
 
-    <section id="services" class="emerald">
+    <section id="services" class="emaradu">
         <div class="container">
             <div class="row">
 

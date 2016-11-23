@@ -3,6 +3,10 @@
   *zoom: 1;
 }
 
+.emaradu{
+
+}
+
 .gallery{
   padding: 50px;
 
@@ -267,7 +271,7 @@ body > section {
   background-color: #f39c12;
 }
 .emerald {
-  background-color: #2ecc71;
+  background-color: gray;
 }
 .nephritis {
   background-color: #27ae60;
