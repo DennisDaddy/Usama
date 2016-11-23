@@ -1,231 +1,132 @@
 <!DOCTYPE html>
-<!--[if IE 6]>
-<html id="ie6" dir="ltr" lang="en-US">
-<![endif]-->
-<!--[if IE 7]>
-<html id="ie7" dir="ltr" lang="en-US">
-<![endif]-->
-<!--[if IE 8]>
-<html id="ie8" dir="ltr" lang="en-US">
-<![endif]-->
-<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
-<html dir="ltr" lang="en-US">
-    <!--<![endif]-->
-    <head>
-        
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width" />
-        
-        <title>Usama | Community</title>
-        
-        <!-- [favicon] begin -->
-        <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico" />
-        <link rel="icon" type="image/x-icon" href="images/favicon.ico" />
-        <!-- [favicon] end --> 
-        
-        <!-- CSS Main -->
-        <link rel="stylesheet" type="text/css" media="all" href="css/reset.css" />
-        <link rel="stylesheet" type="text/css" media="all" href="style.css" />
-        <link rel="stylesheet" type="text/css" media="screen and (max-width: 960px)" href="css/lessthen960.css" />
-        <link rel="stylesheet" type="text/css" media="screen and (max-width: 600px)" href="css/lessthen600.css" />
-        <link rel="stylesheet" type="text/css" media="screen and (max-width: 480px)" href="css/lessthen480.css" />
-        <link rel="stylesheet" type="text/css" media="all" href="css/memento.css"  />
-        
-        <!-- CSS Plugin -->
-        <link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="all" />
-        <link rel="stylesheet" href="css/tipsy.css" type="text/css" media="all" />
-        <link rel='stylesheet' href='css/buttons.min.css' type='text/css' media='all' />
-		<link rel='stylesheet' href='css/labels.min.css' type='text/css' media='all' />
-		<link rel='stylesheet' href='css/wells.min.css' type='text/css' media='all' />
-        
-        <!-- CSS Slider -->
-        <link rel="stylesheet" href="css/slider-thumbnails.css" type="text/css" media="all" />
-        
-        <link rel="stylesheet" type="text/css" media="all" href="css/homes/default.css" />
-        
-
-        <!-- FONTS -->
-        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Droid+Sans&amp;subset=latin%2Ccyrillic%2Cgreek&amp;ver=3.4.1" type="text/css" media="all" />
-        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Shadows+Into+Light&amp;subset=latin%2Ccyrillic%2Cgreek&amp;ver=3.4.1" type="text/css" media="all" />
-        <link rel='stylesheet' href='http://yourinspirationweb.com/demo/memento/wp-content/themes/memento/core/includes/css/font-awesome.css?ver=3.4.1' type='text/css' media='all' />
-        <link rel='stylesheet' href='http://yourinspirationweb.com/demo/memento/wp-content/themes/memento/fonts/socialico/stylesheet.css?ver=3.4.1' type='text/css' media='all' />
-        <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed%3A300%7CPlayfair+Display%3A400italic&#038;ver=3.4.1' type='text/css' media='all' />
-        
-        <!-- JavaScripts -->
-        <script type="text/javascript">
-            var yiw_prettyphoto_style = 'pp_default';
-        </script>
-        <script type="text/javascript" src="js/jquery.js"></script>
-        <script type="text/javascript" src="js/jquery.cycle.min.js"></script>
-        <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
-        <script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
-        <script type="text/javascript" src="js/jquery.tipsy.js"></script>
-        <script type="text/javascript" src="js/jquery.tweetable.js"></script>
-        <script type="text/javascript" src="js/jquery.nivo.slider.pack.js"></script>
-        <script type="text/javascript" src="js/jquery.flexslider.min.js"></script>
-        <script type="text/javascript" src="js/jquery.aw-showcase.js"></script>
-        <script type="text/javascript" src="js/superfish.js"></script>
-        <script type='text/javascript' src="js/jquery.eislideshow.js"></script>
-        <script type='text/javascript' src="js/swfobject.js"></script>
-        <script type='text/javascript' src='js/jquery.cookie.js'></script>
-        <script type='text/javascript' src='js/buttons.min.js'></script>
-        <script type='text/javascript' src='js/layerslider.kreaturamedia.jquery-min.js'></script>
-        <script type='text/javascript' src='js/jquery.quicksand.js'></script>
-        
-    </head>
-    <body class="no_js responsive boxed-layout chrome ">
-        
-        <!-- TOPBAR -->
-
-        <!-- END TOPBAR -->
-        
-        <!-- START WRAPPER -->
-        <div class="wrapper group">
-            <!-- START HEADER -->
-            <div id="header" class="group">
-                <div class="group inner">
-                    
-                    <!-- START LOGO -->
-                    <div id="logo" class="group">
-                       <h2>
-                            <a href="index.php">USAMA MUKWAYA</a>                          
-                        </h2>
-                        <p>Lots of love</p>
-                    </div>
-                    <!-- END LOGO -->  
-                    
-                    <!-- START NAV -->
-                    <div id="nav" class="group">
-                        <ul id="menu-main-nav" class="level-1">
-                            <li>
-                                <a href="index.php"><i class="icon-home"></i>Home</a>
-                                
-                            </li>
-                            
-                                                       
-                            <li>
-                                <a href="osam.php"><i class="icon-picture"></i> Osam</a>
-                                <ul class="sub-menu">
-                                    <li><a href="news.php">News</a></li>
-                                    <li><a href="awards.php">Awards</a></li>
-                                    <li> <a href="blog.php">Blog</a></li>
-                                    <li> <a href="gallery.php">Gallery</a></li>
-                                    <li> <a href="contact.php">Contact Us</a></li>
-                                   
-                                </ul>
-                            </li>
-
-                            <li>
-                                <a href="filmology.php"><i class="icon-calendar"></i>Filmology</a>
-                                
-                            </li>
-
-                            <li>
-                                <a href="blog.php"><i class="icon-calendar"></i>Blog</a>
-                                
-                            </li>
-                            
-                           <li>
-                                <a href="community.php"><i class="icon-calendar"></i>Community</a>
-                                
-                            </li>
-
-                            <li>
-                                <a href="contact.php"><i class="icon-calendar"></i>Contact</a>
-                                
-                            </li>
-                            
-                            
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>UsamaMukwaya | Filmology</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/prettyPhoto.css" rel="stylesheet">
+    <link href="css/animate.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->       
+    <link rel="shortcut icon" href="images/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57-precomposed.png">
+</head><!--/head-->
+<body>
+    <header class="navbar navbar-inverse navbar-fixed-top wet-asphalt" role="banner">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.php"><h1>Usama Mukwaya</h1></a>
+            </div>
+            <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="index.php"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
+                    <li><a href="filmology.php"><i class="fa fa-film" aria-hidden="true"></i> Filmology</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user" aria-hidden="true"></i> Osam <i class="icon-angle-down"></i></a>
+                        <ul class="dropdown-menu">
+                           <li><a href="news.php">News</a></li>
+                           <li><a href="gallery.php">Gallery</a></li>
+                           <li><a href="awards.php">Awards</a></li>
                         </ul>
-                    </div>
-                    <!-- END NAV -->     
+                    </li>
+                    <li><a href="blog.php"><i class="fa fa-pencil" aria-hidden="true"></i> Blog</a></li> 
+                    <li><a href="contact.php"><i class="fa fa-phone" aria-hidden="true"></i> Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </header><!--/header-->
+
+    <section id="title" class="emerald">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <h1>Filmology</h1>
+                    
+                </div>
+                <div class="col-sm-6">
+                    <ul class="breadcrumb pull-right">
+                        <li><a href="index.php">Home</a></li>
+                       
+                        <li class="active">Filmology</li>
+                    </ul>
                 </div>
             </div>
-            <!-- END HEADER -->
+        </div>
+    </section><!--/#title--> 
 
-            <!-- PAGE META -->
-			<div id="page_meta" class="home-section">
-			    <div class="inner group">
-			        <div class="meta-left">
-			            <h2 class="page-title">Community</h2>
-			        </div>
-			        <div class="meta-right">
-			            <p id="crumbs" class="theme_breadcumb"><a class="home" href="index.php">Home</a> //  <a class="no-link current" href="community.php">Community</a></p>
-			        </div>
-			    </div>
-			</div>
-			<!-- /PAGE META -->        
-			
-			<div id="primary" class="layout-sidebar-right home-section">
-			    <div class="inner group">
-			        <!-- START CONTENT -->
-			        <div id="content" class="group">
-			            <div class="page type-page status-publish hentry group">
-			                <h2 class="title-post-page">Media</h2>
-			                <h3>You Tube Video</h3>
-			                <div class="post_video youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/PMs77x0TQIA" frameborder="0" allowfullscreen></iframe></div>
-			                <br>
+    <section id="privacy-policy" class="container">
+     <img  src="images/blog/boo.jpg" width="100%" height="500" />
+        <h3>Bala Bala Sese      2015</h3>
+        <h3>You Tube Video</h3>
+                            <div><iframe width="100%" height="450" src="https://www.youtube.com/embed/PMs77x0TQIA" frameborder="0" allowfullscreen></iframe></div>
+                            <br>
 
-			                <div class="post_video youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/5A_8IcKaM9k" frameborder="0" allowfullscreen></iframe></div>
-			                
-			                
-			                
-			                
-			               
-			                <h2>Socials Media</h2>
-			                <a href="#" class="socials facebook" style="font-size:45px;" title="Facebook">F</a>
-			                <a href="#" class="socials twitter" style="font-size:45px;" title="Twitter">L</a>
-			                <a href="#" class="socials skype" style="font-size:45px;" title="Skype">H</a>
-			                <a href="#" class="socials google" style="font-size:45px;" title="Google">G</a>
-			                
-			            </div>
-			            <div id="comments">
-			                <!--<p class="nocomments">&nbsp;</p>-->
-			            </div>
-			            <!-- #comments -->
-			        </div>
-			        <!-- END CONTENT -->
-			        <!-- START SIDEBAR -->
-			        
-			        </div>
-			        <!-- END SIDEBAR -->    
-			        <!-- START EXTRA CONTENT -->
-			        
-			            
-			            
-			            <div class="one-third last">
-			                <h3>Google Map</h3>
-			                <div class="google-map-frame">
-			                    <iframe width="500" height="272" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.it/maps?f=q&amp;source=s_q&amp;hl=it&amp;geocode=&amp;q=catania&amp;aq=&amp;sll=41.442726,12.392578&amp;sspn=18.129097,39.506836&amp;ie=UTF8&amp;hq=&amp;hnear=Catania,+Sicilia&amp;z=12&amp;output=embed"></iframe>
-			                    <div class="shadow-thumb-sidebar"></div>
-			                </div>
-			                <br />
-			                
-			                <div class="clear"></div>
-			            </div>
-			            <div class="clear"></div>
-			            <br />
-			            <hr />
-			            
-			            
-			            
-			        </div>
-			        <!-- END EXTRA CONTENT -->
-			    </div>
-			</div>
-			<div class="clear"></div>
-		</div>     
-		<!-- END WRAPPER -->
-		
-		<div id="footer" class="sidebar-right">
-            <div class="group inner footer_row_1 footer_cols_3">
-                
-                <div class="widget-first widget recent-posts">
-                    <h3>From our blog</h3>
-                    <div class="recent-post group">
-                        
-                        <div class="hentry-post group">
-                             <?php
+                            <div class="post_video youtube"><iframe width="100%" height="450" src="https://www.youtube.com/embed/5A_8IcKaM9k" frameborder="0" allowfullscreen></iframe></div>
+        <p>Natasha Sinayobye, Micheal Kasaija, Raymond Rushabiro, Ashraf Ssemwogere<br>
+        
+
+        An incredible story of boyfriend's battle for love through perseverance. In the outskirts of Sese Island, John (Micheal Kasaija) is madly in love with Maggie and both are willing to take their love forward. Facing abuses and harassments by malicious Maggie's father Kasirivu (Raymond Rushabiro), John, helped by his young brother Alex (Ssesanga Ismael) is determined to take in all but to retain the love of his life especially when he finds out that he has a contender village tycoon (Jabal Dungu) who is also lining up for Maggie.
+        </p>
+        
+
+        <p>&nbsp;</p>
+
+        <h3>In Just Hours       2013</h3>
+        <p>Ssentongo Isaac as Peter, Allen Musumba, Veronica Nakayo, Shafique Ssenyange<br>
+
+        Peter is about to be surprised by a mysterious, crude condition from the disease he has been suffering from. Weirdly the disease he is suffering from is only about to get fatal in the next few hours and if not treated quickly and carefully, he might not be sexually productive again.
+        </p>
+
+        <p>&nbsp;</p>
+
+        <h3>She Likes Prada     2011</h3>
+        <p>Diana Kahunde, Ankur Rathee, Kato Lubega, Allen Komujini<br>
+
+            Wealthy Felix is married to Grace of the outstanding gorgeousness. To Grace, the matrimony is not a commitment but just only a road to her needs and benefits. She loves the Mercedes Benz.  She is more in love with shopping, good looks and anything trendy better than him especially her favorite label, Prada. She is so prepared to spend every penny Felix makes even with Daisy’s (Grace’s best friend) confrontations. Daisy too has alot more in common with her friend including changing boyfriends like nothing and now having a new one Jessie she is replacing with David who is taking her on Holiday to Mombasa.  When Felix announces that he has been diagnosed with liver cancer which has metastasized, he’s told that he could die if he doesn’t get enough or early treatment and Grace is a little not surprised even for the fact that he is going to die. Comes in Felix’s doctor; capable John, who has away-out for him through chemotherapy but it’s risky and very expensive that Grace won’t allow all the money to go just like that however important it might be for Felix. She has a lot to spend the money to like looking after herself-say breast fragmentation for his husband’s happiness than his unreliable liver cancer which may kill him if not treated in the proper description. However expensive the treatment is, she partners with attractive Doctor John to help her husband in a way that not even Felix can ever imagine. Taking in on the treatment is risky for Felix and so is for Grace’s beauty to be skipped by John! Grace succeeds in luring Dr John to do the treatment. She finally not only likes Prada, but she adores Dr Felix and still has alot to save from her soon dying husband’s fortune.  </p>
+
+        <p>&nbsp;</p>
+        <h3>Hello        2010</h3>
+        <p>Kahunda Laura, John-Martin Ntabaazi, Katushabe Swiam<br>
+            A countryside world of jealousy and possessiveness. A cheerful and passionately devoted couple of Kakumba and Rehma is introduced to the fanciful crazy world of telephone technology but this never goes well to what the phone might bring. After finding Rehma sweet talking on the phone on her farming grounds, Kakumba madly believes that her wife is cheating on him with some other man. A ruckus that is started by Kakumba involves in their neighbor Teresa who tries to make peace between the fighting couple but just as it aggravates, Kakumba receives a call from his niece.  Rehma can’t understand Kakumba’s flattery behaviors on the phone especially with the presence of her mordant neighbor Teresa who can’t seize emphasizing on what Kakumba has just done to Rehma.
+            </p>
+
+        <p>&nbsp;</p>
+        <h3>Pain of Lies        2010</h3>
+        <p>Faridah Kuteesa, Joshua Nyombi, Leila Nasanga, Usama Mukwaya, Ronald Karamuzi<br>
+
+Babirye, an adopted but raised a beloved twin daughter bends the story short when she twirls against her family's possessions and life including snatching her sister's hunky boyfriend Mac. The whole plot is brought to an end by the unexpected return of her brother Jason from the States and the strange disappearance of her sister Nakato. The truth is yet to be revealed in this never told tale.
+</p>
+        <p>&nbsp;</p>
+    </section><!--/#privacy-policy-->
+
+    <section id="bottom" class="wet-asphalt">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-sm-6">
+                    <h4>Latest News</h4>
+                     <div>
+                        <div class="media">
+                            <div class="pull-left">
+                                
+                            </div>
+                            <div class="media-body">
+                                <?php
                 include("includes/connect.php");
             
                 $query = "select * from blog order by 1 DESC LIMIT 0,3";
@@ -242,7 +143,7 @@
                 ?>
                 <a href="blogpages.php?id=<?php echo $blog_id; ?>">
                        
-                 <h3 class="title"><?php echo $title; ?></h3></a>
+               <span class="media-heading"><?php echo $title; ?></span></a>
                  <p><b><?php echo $blog_date; ?></b></p>
                   
                    
@@ -251,112 +152,112 @@
                                 
                                  <?php } ?>
                             
+                            </div>
                         </div>
                         
-                    </div>
-                </div>
-                
-                <div class="widget widget_nav_menu">
-                    <h3>Custom menu</h3>
-                    <div class="menu-footer-menu-container">
-                        <ul id="menu-footer-menu" class="menu">
-                            <li class="columns2"><a href="blog.php">Blog</a></li>
-                            <li class="columns2"><a href="news.php">News</a></li>
-                            <li class="columns2"><a href="filmology.php">Filmology</a></li>
-                            <li class="columns2"><a href="contact.php">Contact</a></li>
-                            <li class="columns2"><a href="awards.php">Awards</a></li>
-                            <li class="columns2"><a href="gallery.php">Gallery</a></li>
-                            <li class="columns2"><a href="community.php">Community</a></li>
+                        
+                    </div>  
+                </div><!--/.col-md-3-->
+
+                <div class="col-md-3 col-sm-6">
+                    <h4>Custom Menu</h4>
+                    <div>
+                        <ul class="arrow">
+                            <li><a href="filmology.php">Filmology</a></li>
+                            <li><a href="news.php">News</a></li>
+                            <li><a href="awards.php">Awards</a></li>
+                             <li><a href="gallery.php">Gallery</a></li>
+                            <li><a href="blog.php">Blog</a></li>
+                            <li><a href="community.php">Community</a></li>
+                            <li><a href="contact.php">Contact Us</a></li>
+                           
                         </ul>
                     </div>
-                </div>
-                
-                <div class="quick-contact-widget widget two-third last">
-                    <div class="widget-last widget quick-contact">
-                        <h3>Quick Contact</h3>
-                        <form id="contact-form-example" class="contact-form" method="post" action="sendmail.php" enctype="multipart/form-data">
-                            <div class="usermessagea"></div>
-                            <fieldset>
-                                <ul>
-                                    <li class="text-field">
-                                        <label for="name-example">
-                                        <span class="label">Name</span>
-                                        </label>
-                                        <div class="input-prepend"><span class="add-on"><i class="icon-user"></i></span><input type="text" name="name" id="name-example" class="required" value="" /></div>
-                                        <div class="msg-error"></div>
-                                    </li>
-                                    <li class="text-field">
-                                        <label for="email-example">
-                                        <span class="label">Email</span>
-                                        </label>
-                                        <div class="input-prepend"><span class="add-on"><i class="icon-envelope"></i></span><input type="text" name="email" id="email-example" class="required email-validate" value="" /></div>
-                                        <div class="msg-error"></div>
-                                    </li>
-                                    <li class="textarea-field">
-                                        <label for="message-example">
-                                        <span class="label">Message</span>
-                                        </label>
-                                        <div class="input-prepend"><span class="add-on"><i class="icon-pencil"></i></span><textarea name="message" id="message-example" rows="8" cols="30" class="required"></textarea></div>
-                                        <div class="msg-error"></div>
-                                    </li>
-                                    <li class="submit-button">
-                                        <input type="text" name="yiw_bot" id="yiw_bot" />
-                                        <input type="hidden" name="action" value="sendemail" id="action" />
-                                        <input type="hidden" name="yiw_referer" value="#" />
-                                        <input type="hidden" name="id_form" value="footer" />
-                                        <input type="submit" name="yiw_sendemail" value="send message" class="sendmail alignright" />			
-                                    </li>
-                                </ul>
-                            </fieldset>
-                        </form>
-                        <script type="text/javascript">
-                            var messages_form_footer = {
-                            	name: "Insert your name",
-                            	email: "Insert your email",
-                            	message: "Insert your message"
-                            };
-                        </script>
-                    </div>
-                </div>
-                
+                </div><!--/.col-md-3-->
+
+                <div class="col-md-3 col-sm-6">
+                    <h4>Latest Blog</h4>
+                    <div>
+                        <div class="media">
+                            <div class="pull-left">
+                                
+                                
+                            </div>
+                            <div class="media-body">
+
+                                <?php
+                include("includes/connect.php");
+            
+                $query = "select * from blog order by 1 DESC LIMIT 0,3";
+            
+                $run =mysqli_query($con,$query);
+            
+            while ($row=mysqli_fetch_array($run)) {
+            
+                $blog_id =$row['blog_id'];
+                $title =$row['blog_title'];
+                $blog_date =$row['blog_date'];
+                $image =$row['blog_image'];
+               
+                ?>
+                <a href="blogpages.php?id=<?php echo $blog_id; ?>">
+                       
+                 <span class="media-heading"><?php echo $title; ?></span></a>
+                 <p><b><?php echo $blog_date; ?></b></p>
+                  
+                   
+            
+               
+                                
+                                 <?php } ?>
+                            </div>
+                        </div>
+                    </div>  
+                </div><!--/.col-md-3-->
+
+                <div class="col-md-3 col-sm-6">
+                    <h4>Address</h4>
+                    <address>
+                         <br>
+                        <br>
+                        <br>
+                    </address>
+                    <h4>Newsletter</h4>
+                    <form role="form">
+                        <div class="input-group">
+                            <input type="text" class="form-control" autocomplete="off" placeholder="Enter your email">
+                            <span class="input-group-btn">
+                                <button class="btn btn-danger" type="button">Go!</button>
+                            </span>
+                        </div>
+                    </form>
+                </div> <!--/.col-md-3-->
             </div>
         </div>
-        
+    </section><!--/#bottom-->
 
-        <!-- START FOOTER -->
-        <div id="copyright" class="group">
-            <div class="inner group">
-                <div class="left">
-                    <p>
-                    	Copyright  @2016 | <a href="#"><strong>USAMAMUKWAYA</strong></a> | All Rights Reserved
-                    </p>
+    <footer id="footer" class="midnight-blue">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    &copy; 2016 | All Rights Reserved.
                 </div>
-                <div class="right">
-                    <a href="#" class="socials facebook" style="font-size:30px;" title="Facebook">F</a>
-                    <a href="#" class="socials twitter" style="font-size:30px;" title="Twitter">L</a>
-                    <a href="#" class="socials skype" style="font-size:30px;" title="Skype">H</a>
-                    <a href="#" class="socials google" style="font-size:30px;" title="Google">G</a>
-                    <a href="#" class="socials linkedin" style="font-size:30px;" title="Linkedin">I</a>
-                    <a href="#" class="socials rss" style="font-size:30px;" title="Rss">R</a>
+                <div class="col-sm-6">
+                    <ul class="pull-right">
+                       <li><a href="https://www.facebook.com/OnlineUsama"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+                        <li><a href="https://twitter.com/usamamukwaya"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                        <li><a href="https://www.youtube.com/user/TheUgmovies"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+                        <li><a href="https://plus.google.com/+UsamaMukwaya"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                        <li><a id="gototop" class="gototop" href="#"><i class="icon-chevron-up"></i></a></li><!--#gototop-->
+                    </ul>
                 </div>
             </div>
         </div>
-        
-        <script type="text/javascript" src="js/jquery.custom.js"></script>
-        <script type="text/javascript" src="js/contact.js"></script>
-        
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-36516261-21']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>		
-    </body>
+    </footer><!--/#footer-->
+    <script src="https://use.fontawesome.com/4d0c79038f.js"></script>
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.prettyPhoto.js"></script>
+    <script src="js/main.js"></script>
+</body>
 </html>
