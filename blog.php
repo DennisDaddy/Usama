@@ -163,7 +163,9 @@
                 ?>
                 <a href="blogpages.php?id=<?php echo $blog_id; ?>">
                  <p><?php echo $title; ?></p></a>
-                                <img width="140" height="100" <img src='images2/uploads/<?php echo $image; ?>' >
+                               <div id="single_post"> 
+                                   <img width="140" height="100" <img src='images2/uploads/<?php echo $image; ?>' >
+                                </div>
                                        
                                 <p class="post-date"><b><?php echo $blog_date; ?></b></p>
                                  <?php } ?>

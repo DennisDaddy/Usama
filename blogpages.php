@@ -119,8 +119,9 @@
 
                                 <p>Published On: <b><?php echo $blog_date; ?></b></p>
                                 <p><i></i> <span>By: <b><?php echo $blog_author; ?></b></span></p>
-                                
-                                <img  src="images2/uploads/<?php echo $blog_image; ?>" width="100%" height="10%"  />
+                                <div id="single_post">                                 
+                                    <img  src="images2/uploads/<?php echo $blog_image; ?>" width="100%" height="450"  />
+                                    </div>
                                  
 
                                 <p align="justify"><?php echo $blog_content; ?></p>
@@ -165,7 +166,9 @@
                 ?>
                 <a href="blogpages.php?id=<?php echo $blog_id; ?>">
                  <p><?php echo $title; ?></p></a>
-                                <img width="140" height="100" <img src='images2/uploads/<?php echo $image; ?>' >
+                                <div id="single_post"> 
+                                   <img width="140" height="100" <img src='images2/uploads/<?php echo $image; ?>' >
+                                </div>
                                        
                                 <p class="post-date"><b><?php echo $blog_date; ?></b></p>
                                  <?php } ?>
