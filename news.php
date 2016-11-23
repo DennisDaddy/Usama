@@ -16,7 +16,7 @@
     <script src="js/respond.min.js"></script>
     <![endif]-->       
 
-<script src="https://use.fontawesome.com/4d0c79038f.js"></script>
+
 
     <link rel="shortcut icon" href="images/ico/favicon.ico">
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144-precomposed.png">
@@ -323,7 +323,7 @@
             </div>
         </div>
     </footer><!--/#footer-->
-
+     <script src="https://use.fontawesome.com/4d0c79038f.js"></script>
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery.prettyPhoto.js"></script>
