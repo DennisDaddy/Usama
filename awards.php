@@ -221,16 +221,17 @@
                 </div>
                 <div class="col-sm-6">
                     <ul class="pull-right">
-                       <li><a href="https://www.facebook.com/OnlineUsama">Facebook</a></li>
-                        <li><a href="https://twitter.com/usamamukwaya">Twitter</a></li>
-                        <li><a href="https://www.youtube.com/user/TheUgmovies">Youtube</a></li>
-                        <li><a href="https://plus.google.com/+UsamaMukwaya">Google Plus</a></li>
+                       <li><a href="https://www.facebook.com/OnlineUsama"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+                        <li><a href="https://twitter.com/usamamukwaya"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                        <li><a href="https://www.youtube.com/user/TheUgmovies"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+                        <li><a href="https://plus.google.com/+UsamaMukwaya"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
                         <li><a id="gototop" class="gototop" href="#"><i class="icon-chevron-up"></i></a></li><!--#gototop-->
                     </ul>
                 </div>
             </div>
         </div>
     </footer><!--/#footer-->
+    <script src="https://use.fontawesome.com/4d0c79038f.js"></script>
 
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
