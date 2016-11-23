@@ -71,9 +71,9 @@
     </section><!--/#title--> 
 
     <section id="privacy-policy" class="container">
-     <img  src="images/blog/boo.jpg" width="100%" height="500" />
-        <h3>Bala Bala Sese      2015</h3>
-        <h3>You Tube Video</h3>
+     
+        <h3>Bala Bala Sese </h3>
+        
                             <div><iframe width="100%" height="450" src="https://www.youtube.com/embed/PMs77x0TQIA" frameborder="0" allowfullscreen></iframe></div>
                             <br>
 
