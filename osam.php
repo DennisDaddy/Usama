@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>UsamaMukwaya | Filmology</title>
+    <title>UsamaMukwaya | Osam</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/prettyPhoto.css" rel="stylesheet">
@@ -36,6 +36,7 @@
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user" aria-hidden="true"></i> Osam <i class="icon-angle-down"></i></a>
                         <ul class="dropdown-menu">
+                           <li><a href="news.php">Osam</a></li>
                            <li><a href="news.php">News</a></li>
                            <li><a href="gallery.php">Gallery</a></li>
                            <li><a href="awards.php">Awards</a></li>
@@ -53,14 +54,14 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Filmology</h1>
+                    <h1>Osam</h1>
                     
                 </div>
                 <div class="col-sm-6">
                     <ul class="breadcrumb pull-right">
                         <li><a href="index.php">Home</a></li>
                        
-                        <li class="active">Filmology</li>
+                        <li class="active">Osam</li>
                     </ul>
                 </div>
             </div>
