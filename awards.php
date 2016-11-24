@@ -36,6 +36,7 @@
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user" aria-hidden="true"></i> Osam <i class="icon-angle-down"></i></a>
                         <ul class="dropdown-menu">
+                        <li><a href="news.php">Osam</a></li>
                            <li><a href="news.php">News</a></li>
                            <li><a href="gallery.php">Gallery</a></li>
                            <li><a href="awards.php">Awards</a></li>
