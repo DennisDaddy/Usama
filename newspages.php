@@ -118,7 +118,7 @@
                                 <p><i></i> <span>By: <b><?php echo $post_author; ?></b></span></p>
 
                                  <div id="single_post">                                
-                                <img  src="images2/uploads/<?php echo $post_image; ?>" width="100%"  height="450"  />
+                                <img  src="images2/uploads/<?php echo $post_image; ?>" width="100%"  height="550"  />
                                 </div>
                                  
 
