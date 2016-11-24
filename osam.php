@@ -69,14 +69,31 @@
     </section><!--/#title--> 
 
     <section id="privacy-policy" class="container">
-     <img  src="images/blog/boo.jpg" width="100%" height="500" />
-        <h3>Bala Bala Sese      2015</h3>
-    
-        <h3>Pain of Lies        2010</h3>
-        <p>Faridah Kuteesa, Joshua Nyombi, Leila Nasanga, Usama Mukwaya, Ronald Karamuzi<br>
+     <h3>BIOGRAPHY</h3>
+     <p>&nbsp;</p>
 
-Babirye, an adopted but raised a beloved twin daughter bends the story short when she twirls against her family's possessions and life including snatching her sister's hunky boyfriend Mac. The whole plot is brought to an end by the unexpected return of her brother Jason from the States and the strange disappearance of her sister Nakato. The truth is yet to be revealed in this never told tale.
-</p>
+     <img  src="images/blog/osam.jpg" width="100%" height="500" />
+     <p>&nbsp;</p>
+       
+        <p>Some people around me believe I have achieved all that it takes to be a thriving filmmaker but to me, it’s more history to make in the budding Ugandan film industry. I still believe that I will meet some of my favorite inspirations and hopefully do projects with them.<br>
+        Being the second and third born of Abdullah and Mariam, I can never be more blessed to be born from the Pearl of Africa. Well this is my story.<br>
+        When I stood out from the many pupils of Linnet Primary School and emerged the best performer in the parents’ day activities, the small me knew that had it got it all. However it this established a strong go ahead in all my following performing arts activities including later an exhibition participation in the first Banana fiber contemporary mosaics 2009, Makerere University Art department.<br>
+        I remember the first time I attempted on writing was September 2005 where I started with Replica as my breakthrough script originally written as a feature which I have just recently accomplished to a high school drama series. <br>
+        It was the foremost time I felt that screenplay writing was not just the ramble - ambled papers of Replica [my remarkable drama series script] I had in my four quire book. It was more than a discovery that at least not every one in this craze of life, leaves to explore.
+        Early 2010, I joined Maryland Productions Africa from where I had my first acting experience in ‘Pain of Lies’. <br>
+        I always felt I had the art of film even when I had never gotten any where close to any filmmaker and thanks to the implausible Danny Kiggundu that I have been able to live my dream.<br>
+        Later that year I went on and joined Uganda Film Network as a screenwriter and there I was appointed the general secretary in the Screenwriters’ Guild. That very year, I was accepted in the Mariam Ndagire Film and Performing Arts Centre and glad to be one of the first alumni.
+        In December 2010 I successfully made my first short movie, ‘Hello’ a collaboration of Trendz studios, Maisha Film Lab and Makerere Business School. <br> It was an amazingly fan workshop that brought me to another new movie making experience and to humbly receive with please the title; THE WRITER.
+        Under that project, I achieved a nomination in the 2010 Mariam Ndagire Film and Performing Arts students’ film awards for the best screenplay and in the same year I had a chance to showcase that very film in the inaugural Pearl International Film Festival. It was from then that it continued to screen in various festivals including Amakula Kampala International Film Festival and Manya Human Rights Film Festival.<br>
+        In 2011, I was blessed with an invite to participate in the 7th annual Maisha filmmaker’s lab that saw me stroking shoulders with terrific filmmakers like Moon-soon Wedding’s Mira Nair – the founder, Slum dog Millionaire’s Mrinal Desai, Storm Chaser’s Jeff Wynne, The Bachelors’ Steven Cohen and many more proficient filmmakers. The lab finished with a partnership with Diana Karua in the making of the short ‘She likes Prada’. We stroll to tell, but Maisha was just another life arty film opening.<br> I have to admit Diana was one hell of a tough woman but having her as my first female director to work with was awe-inspiring. She could and still boosts the invisible power in me.<br>
+        In addition to my latest massive success on ‘Bala bala Sese’, I am currently working on ‘Love Faces’ my first film as a director and much more to come.<br>
+        My enthusiasm with writing currently has me entangled with a short young adult novel which should be out any time soon. Meanwhile I am also so much passionate about humanity and watch this space because I am opening my heart to the world pretty soon.
+        As I celebrate my numerous attainments including being A African Young Achievers Awards Winner 2011, I hope that my life and my journey through story telling lives to tell the tales.
+        <p>&nbsp;</p>
+        Hit me up in my mail box and we do the real talk, looks like there is plenty and plenty we can connect with!
+
+        </p>
+        <hr>
         <p>&nbsp;</p>
     </section><!--/#privacy-policy-->
 
