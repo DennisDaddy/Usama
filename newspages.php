@@ -51,7 +51,7 @@
                            <li><a href="awards.php">Awards</a></li>
                         </ul>
                     </li>
-                    <li><a href="blog.php"><i class="fa fa-pencil" aria-hidden="true"></i> News</a></li> 
+                    <li><a href="blog.php"><i class="fa fa-pencil" aria-hidden="true"></i> Blog</a></li> 
                     <li><a href="community.php"><i class="fa fa-users" aria-hidden="true"></i> Community</a></li> 
                     <li><a href="contact.php"><i class="fa fa-phone" aria-hidden="true"></i> Contact</a></li>
                 </ul>
