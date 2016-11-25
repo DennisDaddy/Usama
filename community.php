@@ -54,14 +54,14 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Filmology</h1>
+                    <h1 style="color: #D4AF37;">Filmology</h1>
                     
                 </div>
                 <div class="col-sm-6">
                     <ul class="breadcrumb pull-right">
-                        <li><a href="index.php">Home</a></li>
+                        <li style="color: #D4AF37;"><a href="index.php">Home</a></li>
                        
-                        <li class="active">Filmology</li>
+                        <li style="color: #D4AF37;" class="active">Filmology</li>
                     </ul>
                 </div>
             </div>
