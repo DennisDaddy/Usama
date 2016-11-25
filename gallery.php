@@ -103,7 +103,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3 col-sm-6">
-                    <h4>Latest News</h4>
+                    <h4 style="color: #D4AF37;">Latest News</h4>
                      <div>
                         <div class="media">
                             <div class="pull-left">
@@ -144,7 +144,7 @@
                 </div><!--/.col-md-3-->
 
                 <div class="col-md-3 col-sm-6">
-                    <h4>Custom Menu</h4>
+                    <h4 style="color: #D4AF37;">Custom Menu</h4>
                     <div>
                         <ul class="arrow">
                             <li><a href="filmology.php">Filmology</a></li>
@@ -160,7 +160,7 @@
                 </div><!--/.col-md-3-->
 
                 <div class="col-md-3 col-sm-6">
-                    <h4>Latest Blog</h4>
+                    <h4 style="color: #D4AF37;">Latest Blog</h4>
                     <div>
                         <div class="media">
                             <div class="pull-left">
@@ -200,13 +200,13 @@
                 </div><!--/.col-md-3-->
 
                 <div class="col-md-3 col-sm-6">
-                    <h4>Address</h4>
+                    <h4 style="color: #D4AF37;">Address</h4>
                     <address>
                          <br>
                         <br>
                         <br>
                     </address>
-                    <h4>Newsletter</h4>
+                    <h4 style="color: #D4AF37;">Newsletter</h4>
                     <form role="form">
                         <div class="input-group">
                             <input type="text" class="form-control" autocomplete="off" placeholder="Enter your email">
@@ -224,7 +224,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                     <p>&copy; <?php echo date("Y"); ?> | Usam Mukwaya |  All Rights Reserved. |  <a href="admin/login.php"><i class="icon-lock"></i>  Admin Login</a></p>
+                   <p style="color: #D4AF37;">&copy; <?php echo date("Y"); ?> | Usam Mukwaya |  All Rights Reserved. |  <a href="admin/login.php"><i class="icon-lock"></i>  Admin Login</a></p>
                 </div>
                 <div class="col-sm-6">
                     <ul class="pull-right">
@@ -238,7 +238,7 @@
             </div>
         </div>
     </footer><!--/#footer-->
-   <script src="https://use.fontawesome.com/4d0c79038f.js"></script>
+     <script src="https://use.fontawesome.com/4d0c79038f.js"></script>
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery.prettyPhoto.js"></script>
