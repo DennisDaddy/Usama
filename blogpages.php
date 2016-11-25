@@ -27,7 +27,7 @@
         fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
 
-    <header class="navbar navbar-inverse navbar-fixed-top wet-asphalt" role="banner">
+    <header class="navbar navbar-inverse navbar-fixed-top midnight-blue" role="banner">
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
