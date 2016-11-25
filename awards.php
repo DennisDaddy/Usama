@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>About Us | Flat Theme</title>
+    <title>Usama Mukwaya | Awards</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/prettyPhoto.css" rel="stylesheet">
@@ -54,13 +54,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Awards and Nominations</h1>
+                    <h1 style="color: #D4AF37;">Awards and Nominations</h1>
                    
                 </div>
                 <div class="col-sm-6">
                     <ul class="breadcrumb pull-right">
-                        <li><a href="index.php">Home</a></li>
-                        <li class="active">Awards and Nominations</li>
+                        <li><a style="color: #D4AF37;" href="index.php">Home</a></li>
+                        <li style="color: #D4AF37;" class="active">Awards and Nominations</li>
                     </ul>
                 </div>
             </div>
