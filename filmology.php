@@ -100,7 +100,7 @@
             </p>
 
         <p>&nbsp;</p>
-        <h3>Pain of Lies        2010</h3>
+        <h3 style="color: #d9534f; font-family: cursive;">Pain of Lies        2010</h3>
         <p>Faridah Kuteesa, Joshua Nyombi, Leila Nasanga, Usama Mukwaya, Ronald Karamuzi<br>
 
 Babirye, an adopted but raised a beloved twin daughter bends the story short when she twirls against her family's possessions and life including snatching her sister's hunky boyfriend Mac. The whole plot is brought to an end by the unexpected return of her brother Jason from the States and the strange disappearance of her sister Nakato. The truth is yet to be revealed in this never told tale.
