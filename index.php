@@ -18,7 +18,7 @@
      <link rel="shortcut icon" href="images/ico/us.jpg">
 </head><!--/head-->
 <body>
-    <header class="navbar navbar-inverse navbar-fixed-top wet-asphalt" role="banner">
+    <header class="navbar navbar-inverse navbar-fixed-top midnight-blue " role="banner">
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
