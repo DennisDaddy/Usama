@@ -271,7 +271,7 @@ body > section {
   background-color: #f39c12;
 }
 .emerald {
-  background-color: gray;
+  background-color: #34495e;
 }
 .nephritis {
   background-color: #27ae60;
@@ -748,7 +748,7 @@ ul.tag-cloud li {
   padding-top: 7px;
   padding-bottom: 7px;
   border-radius: 4px;
-  color: #bdc3c7;
+  
 }
 .navbar-inverse .navbar-nav > .active > a,
 .navbar-inverse .navbar-nav > .active > a:hover,
