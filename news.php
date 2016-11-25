@@ -66,13 +66,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>News</h1>
+                    <h1 style="color: #D4AF37;">News</h1>
                    
                 </div>
                 <div class="col-sm-6">
                     <ul class="breadcrumb pull-right">
-                        <li><a href="index.php">Home</a></li>
-                        <li class="active">News</li>
+                        <li><a style="color: #D4AF37;" href="index.php">Home</a></li>
+                        <li style="color: #D4AF37;" class="active">News</li>
                     </ul>
                 </div>
             </div>
@@ -142,7 +142,7 @@
                     </div><!--/.search-->
                     
                     <div class="widget categories">
-                        <h3>Recent Blog</h3>
+                        <h3 style="color: #d9534f;">Recent Blog</h3>
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="single_comments">
@@ -186,7 +186,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3 col-sm-6">
-                    <h4>Latest News</h4>
+                    <h4 style="color: #D4AF37;">Latest News</h4>
                      <div>
                         <div class="media">
                             <div class="pull-left">
@@ -227,7 +227,7 @@
                 </div><!--/.col-md-3-->
 
                 <div class="col-md-3 col-sm-6">
-                    <h4>Custom Menu</h4>
+                    <h4 style="color: #D4AF37;">Custom Menu</h4>
                     <div>
                         <ul class="arrow">
                             <li><a href="filmology.php">Filmology</a></li>
@@ -243,7 +243,7 @@
                 </div><!--/.col-md-3-->
 
                 <div class="col-md-3 col-sm-6">
-                    <h4>Latest Blog</h4>
+                    <h4 style="color: #D4AF37;">Latest Blog</h4>
                     <div>
                         <div class="media">
                             <div class="pull-left">
@@ -283,13 +283,13 @@
                 </div><!--/.col-md-3-->
 
                 <div class="col-md-3 col-sm-6">
-                    <h4>Address</h4>
+                    <h4 style="color: #D4AF37;">Address</h4>
                     <address>
                          <br>
                         <br>
                         <br>
                     </address>
-                    <h4>Newsletter</h4>
+                    <h4 style="color: #D4AF37;">Newsletter</h4>
                     <form role="form">
                         <div class="input-group">
                             <input type="text" class="form-control" autocomplete="off" placeholder="Enter your email">
@@ -307,7 +307,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                   <p>&copy; <?php echo date("Y"); ?> | Usam Mukwaya |  All Rights Reserved. |  <a href="admin/login.php"><i class="icon-lock"></i>  Admin Login</a></p>
+                   <p style="color: #D4AF37;">&copy; <?php echo date("Y"); ?> | Usam Mukwaya |  All Rights Reserved. |  <a href="admin/login.php"><i class="icon-lock"></i>  Admin Login</a></p>
                 </div>
                 <div class="col-sm-6">
                     <ul class="pull-right">
