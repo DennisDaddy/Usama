@@ -116,7 +116,7 @@
                
                 
          <section id="terms" class="container"><!--/#terms-->
-        <h2>Welcome to UsamaMukwaya</h2>
+        <h2 style="color: #d9534f; font-family: cursive;">Welcome to UsamaMukwaya</h2>
 
         <p>Welcome to my abracadabra world! Growing up in a humble, religious family and environment has given me all the possibilities in life to creatively put myself out. I haven’t gotten so far as I need to but to the expedition I have traveled, I am greatly thankful to the almighty for the chance to work and associate with some of the world’s finest personalities. I also am gratified to the exceptional beings that have helped me shove through. I am devoted humanity and to me there is no more to its narrative than the days we live to smile and breath. The moments you realize you had to live by someone, with someone and the always unimaginative; for someone. I love writing and I adore deeply art! It’s not so far that I have started this journey but with poise I would like to try and explore the humankind through storytelling, from the tender tales of real life to the spooky world of fiction.
         Lots of love. </p>  
@@ -131,7 +131,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <h3>Photo Gallery</h3>
+                    <h3 style="color: #d9534f;" >Photo Gallery</h3>
                     <p>Always do your best. What you plant now, you will harvest later. This are some of my greatest moments enjoying nature</p>
                     <div class="btn-group">
                         <a class="btn btn-danger" href="#scroller" data-slide="prev"><i class="icon-angle-left"></i></a>
@@ -246,7 +246,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3 col-sm-6">
-                    <h4>Latest News</h4>
+                    <h4 style="color: #D4AF37;">Latest News</h4>
                      <div>
                         <div class="media">
                             <div class="pull-left">
@@ -287,7 +287,7 @@
                 </div><!--/.col-md-3-->
 
                 <div class="col-md-3 col-sm-6">
-                    <h4>Custom Menu</h4>
+                    <h4 style="color: #D4AF37;">Custom Menu</h4>
                     <div>
                         <ul class="arrow">
                             <li><a href="filmology.php">Filmology</a></li>
@@ -303,7 +303,7 @@
                 </div><!--/.col-md-3-->
 
                 <div class="col-md-3 col-sm-6">
-                    <h4>Latest Blog</h4>
+                    <h4 style="color: #D4AF37;">Latest Blog</h4>
                     <div>
                         <div class="media">
                             <div class="pull-left">
@@ -343,13 +343,13 @@
                 </div><!--/.col-md-3-->
 
                 <div class="col-md-3 col-sm-6">
-                    <h4>Address</h4>
+                    <h4 style="color: #D4AF37;">Address</h4>
                     <address>
                         <br>
                         <br>
                         <br>
                     </address>
-                    <h4>Newsletter</h4>
+                    <h4 style="color: #D4AF37;">Newsletter</h4>
                     <form role="form">
                         <div class="input-group">
                             <input type="text" class="form-control" autocomplete="off" placeholder="Enter your email">
@@ -367,7 +367,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                     <p>&copy; <?php echo date("Y"); ?> | Usam Mukwaya |  All Rights Reserved. |  <a href="admin/login.php"><i class="icon-lock"></i>  Admin Login</a></p>
+                     <p style="color: #D4AF37;">&copy; <?php echo date("Y"); ?> | Usam Mukwaya |  All Rights Reserved. |  <a href="admin/login.php"><i class="icon-lock"></i>  Admin Login</a></p>
 
                 </div>
                 <div class="col-sm-6">
