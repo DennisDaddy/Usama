@@ -233,7 +233,7 @@ Babirye, an adopted but raised a beloved twin daughter bends the story short whe
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                     &copy; <?php echo date("Y"); ?> | Usam Mukwaya |  All Rights Reserved.
+                     <p>&copy; <?php echo date("Y"); ?> | Usam Mukwaya |  All Rights Reserved. |  <a href="admin/login.php"><i class="icon-lock"></i>  Admin Login</a></p>
                 </div>
                 <div class="col-sm-6">
                     <ul class="pull-right">
