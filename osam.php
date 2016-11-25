@@ -69,7 +69,7 @@
     </section><!--/#title--> 
 
     <section id="privacy-policy" class="container">
-     <h3>BIOGRAPHY</h3>
+     <h3 style="color: #d9534f; font-family: cursive;">BIOGRAPHY</h3>
      <p>&nbsp;</p>
 
      <img  src="images/blog/osam.jpg" width="100%" height="500" />
