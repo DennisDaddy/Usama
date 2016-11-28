@@ -131,7 +131,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <h3 style="color: #d9534f;" >Photo Gallery</h3>
+                    <h3 style="color:#ff0000; font-family:'Debevic Circular', serif; font-weight:600;" >Photo Gallery</h3>
                     <p>Always do your best. What you plant now, you will harvest later. This are some of my greatest moments enjoying nature</p>
                     <div class="btn-group">
                         <a class="btn btn-danger" href="#scroller" data-slide="prev"><i class="icon-angle-left"></i></a>
