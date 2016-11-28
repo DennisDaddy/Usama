@@ -369,7 +369,7 @@
                 </div> <!--/.col-md-3-->
             </div>
         </div>
-        
+
     </section><!--/#bottom-->
 
 
@@ -377,7 +377,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                     <p style="color: #D4AF37;">&copy; <?php echo date("Y"); ?> | Usam Mukwaya |  All Rights Reserved. |  <a href="admin/login.php"><i class="icon-lock"></i>  Admin Login</a></p>
+                     <p>&copy; <?php echo date("Y"); ?> | Usam Mukwaya |  All Rights Reserved. |  <a href="admin/login.php"><i class="icon-lock"></i>  Admin Login</a></p>
 
                 </div>
                 <div class="col-sm-6">
