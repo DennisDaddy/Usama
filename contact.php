@@ -70,7 +70,7 @@
     <section id="contact-page" class="container">
         <div class="row">
             <div class="col-sm-8">
-                <h3 style="color: #d9534f;">Contact Form</h3>
+                <h3>Contact Form</h3>
                 <div class="status alert alert-success" style="display: none"></div>
                 <form id="main-contact-form" class="contact-form" name="contact-form" method="post" action="sendemail.php" role="form">
                     <div class="row">
