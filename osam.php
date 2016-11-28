@@ -99,7 +99,7 @@
             <a class="btn btn-social btn-facebook" href="#"><i class="icon-facebook"></i></a> 
             <a class="btn btn-social btn-google-plus" href="#"><i class="icon-google-plus"></i></a> 
             <a class="btn btn-social btn-twitter" href="#"><i class="icon-twitter"></i></a> 
-            <a class="btn btn-social btn-linkedin" href="#"><i class="icon-linkedin"></i></a> </p>
+             </p>
     </section><!--/#privacy-policy-->
 
     <section id="bottom" class="wet-asphalt">
