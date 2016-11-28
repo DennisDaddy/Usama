@@ -70,7 +70,7 @@
 
     <section id="privacy-policy" class="container">
      
-        <h3 style="color: #d9534f; font-family: cursive;">Bala Bala Sese </h3>
+        <h3>Bala Bala Sese </h3>
         
                             <div><iframe width="100%" height="450" src="https://www.youtube.com/embed/PMs77x0TQIA" frameborder="0" allowfullscreen></iframe></div>
                             <br>
