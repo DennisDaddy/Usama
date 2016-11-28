@@ -2,6 +2,29 @@
 .clearfix {
   *zoom: 1;
 }
+
+.emaradu{
+   background-color:;
+}
+
+.gallery{
+  padding: 50px;
+
+}
+
+#single_post img{
+  border: 2px solid black;
+
+  padding: 3px;
+}
+
+
+.step{
+  margin-bottom: 10px;
+
+}
+
+
 .clearfix:before,
 .clearfix:after {
   display: table;
@@ -248,7 +271,7 @@ body > section {
   background-color: #f39c12;
 }
 .emerald {
-  background-color: #2ecc71;
+  background-color: #34495e;
 }
 .nephritis {
   background-color: #27ae60;
@@ -293,7 +316,7 @@ body > section {
   color: #d9534f;
 }
 .midnight-blue {
-  background-color: #2c3e50;
+  background-color: black;
 }
 .concrete {
   background-color: #95a5a6;
@@ -725,7 +748,7 @@ ul.tag-cloud li {
   padding-top: 7px;
   padding-bottom: 7px;
   border-radius: 4px;
-  color: #bdc3c7;
+  
 }
 .navbar-inverse .navbar-nav > .active > a,
 .navbar-inverse .navbar-nav > .active > a:hover,
@@ -1007,6 +1030,7 @@ ul.social > li > a:hover {
   margin-bottom: 20px;
 }
 .blog .blog-item .img-blog {
+  height: 5%;
   width: 100%;
   border-radius: 5px 5px 0 0;
 }
