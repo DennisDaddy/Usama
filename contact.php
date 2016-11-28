@@ -54,13 +54,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h2 style="color: #D4AF37;">Contact Us</h2>
+                    <h2>Contact Us</h2>
                    
                 </div>
                 <div class="col-sm-6">
                     <ul class="breadcrumb pull-right">
-                        <li><a style="color: #D4AF37;" href="index.php">Home</a></li>
-                        <li style="color: #D4AF37;" class="active">Contact Us</li>
+                        <li><a  href="index.php">Home</a></li>
+                        <li  class="active">Contact Us</li>
                     </ul>
                 </div>
             </div>
