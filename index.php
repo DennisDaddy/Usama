@@ -311,7 +311,7 @@
                 </div><!--/.col-md-3-->
 
                 <div class="col-md-3 col-sm-6">
-                    <h4 style="color: #D4AF37;">Latest Blog</h4>
+                    <h4>Latest Blog</h4>
                     <div>
                         <div class="media">
                             <div class="pull-left">
