@@ -99,7 +99,16 @@
                 <h3 style="color: #d9534f;">Our Location</h3>
                 <iframe width="100%" height="215" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127672.26884318159!2d32.52908433918015!3d0.3140102822760062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177dbc0f9d74b39b%3A0x4538903dd96b6fec!2sKampala!5e0!3m2!1sen!2sug!4v1479852255915"></iframe>
             </div><!--/.col-sm-4-->
+
+
         </div>
+        <hr>
+                              <p>&nbsp;</p>
+                                <p align="right"><b>Lets connect on social media.</b> <br><br>
+                                        <a class="btn btn-social btn-facebook" href="https://www.facebook.com/OnlineUsama"><i class="icon-facebook"></i></a> 
+                                        <a class="btn btn-social btn-google-plus" href="https://plus.google.com/+UsamaMukwaya"><i class="icon-google-plus"></i></a> 
+                                        <a class="btn btn-social btn-twitter" href="https://twitter.com/usamamukwaya"><i class="icon-twitter"></i></a> 
+                                </p>
     </section><!--/#contact-page-->
 
    <section id="bottom" class="wet-asphalt">
