@@ -369,7 +369,9 @@
                 </div> <!--/.col-md-3-->
             </div>
         </div>
+        
     </section><!--/#bottom-->
+
 
     <footer id="footer" class="midnight-blue">
         <div class="container">
