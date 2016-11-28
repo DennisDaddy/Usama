@@ -54,14 +54,14 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1 style="color: #D4AF37;">Osam</h1>
+                    <h1>Osam</h1>
                     
                 </div>
                 <div class="col-sm-6">
                     <ul class="breadcrumb pull-right">
-                        <li><a style="color: #D4AF37;" href="index.php">Home</a></li>
+                        <li><a  href="index.php">Home</a></li>
                        
-                        <li style="color: #D4AF37;" class="active">Osam</li>
+                        <li  class="active">Osam</li>
                     </ul>
                 </div>
             </div>
@@ -69,7 +69,7 @@
     </section><!--/#title--> 
 
     <section id="privacy-policy" class="container">
-     <h3 style="color: #d9534f; font-family: cursive;">BIOGRAPHY</h3>
+     <h3>BIOGRAPHY</h3>
      <p>&nbsp;</p>
 
      <img  src="images/blog/osam.jpg" width="100%" height="500" />
