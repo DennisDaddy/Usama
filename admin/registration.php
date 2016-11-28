@@ -66,7 +66,7 @@ session_start();
 
     <section id="registration" class="container">
      <h1 align="center">Admin Login Area</h1>
-        <form  class="center" role="form" action="login.php">
+        <form  class="center" role="form" action="login.php" method="post" >
             <fieldset class="registration-form">
                 <div class="form-group">
                     <input type="text" id="username" name="user_name" placeholder="Username" class="form-control">
