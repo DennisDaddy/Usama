@@ -99,6 +99,21 @@
                         </div>
                     </div>
                 </div><!--/.item-->
+
+                <div class="item" style="background-image: url(images/slider/bg7.jpg)">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="carousel-content center centered">
+                                    <h2 class="boxed animation animated-item-1">African Movie Academy Awards </h2>
+                                    <p class="boxed animation animated-item-2">Best Film in an African Language; 'Bala Bala Sese'. </p>
+                                    <br>
+                                    <a class="btn btn-md animation animated-item-2" href="awards.php">Learn More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div><!--/.item-->
             </div><!--/.carousel-inner-->
         </div><!--/.carousel-->
         <a class="prev hidden-xs" href="#main-slider" data-slide="prev">
