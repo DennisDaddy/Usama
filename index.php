@@ -234,6 +234,14 @@
                                     </div>
                                 </div>
                             </div><!--/.item-->
+
+                               <hr>
+                              <p>&nbsp;</p>
+                                <p align="right"><b>Lets connect on social media.</b> <br><br>
+                                        <a class="btn btn-social btn-facebook" href="https://www.facebook.com/OnlineUsama"><i class="icon-facebook"></i></a> 
+                                        <a class="btn btn-social btn-google-plus" href="https://plus.google.com/+UsamaMukwaya"><i class="icon-google-plus"></i></a> 
+                                        <a class="btn btn-social btn-twitter" href="https://twitter.com/usamamukwaya"><i class="icon-twitter"></i></a> 
+                                </p>
                         </div>
                     </div>
                 </div>
