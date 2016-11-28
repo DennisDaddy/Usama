@@ -63,7 +63,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1 style="color: #D4AF37;">News</h1>
+                    <h1>News</h1>
                    
                 </div>
                 <div class="col-sm-6">
