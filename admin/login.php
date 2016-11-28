@@ -37,19 +37,19 @@ session_start();
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="../index.php"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
-                    <li><a href="filmology.php"><i class="fa fa-film" aria-hidden="true"></i> Filmology</a></li>
+                    <li><a href="../filmology.php"><i class="fa fa-film" aria-hidden="true"></i> Filmology</a></li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user" aria-hidden="true"></i> Osam <i class="icon-angle-down"></i></a>
                         <ul class="dropdown-menu">
-                           <li><a href="osam.php"><i class="fa fa-user" aria-hidden="true"></i> Osam</a></li>
-                           <li><a href="news.php"><i class="fa fa-newspaper-o" aria-hidden="true"></i> News</a></li>
-                           <li><a href="gallery.php"><i class="fa fa-picture-o" aria-hidden="true"></i> Gallery</a></li>
-                           <li><a href="awards.php"><i class="fa fa-gift" aria-hidden="true"></i> Awards</a></li>
+                           <li><a href="../osam.php"><i class="fa fa-user" aria-hidden="true"></i> Osam</a></li>
+                           <li><a href="../news.php"><i class="fa fa-newspaper-o" aria-hidden="true"></i> News</a></li>
+                           <li><a href="../gallery.php"><i class="fa fa-picture-o" aria-hidden="true"></i> Gallery</a></li>
+                           <li><a href="../awards.php"><i class="fa fa-gift" aria-hidden="true"></i> Awards</a></li>
                         </ul>
                     </li>
-                    <li><a href="blog.php"><i class="fa fa-pencil" aria-hidden="true"></i> Blog</a></li> 
-                    <li><a href="community.php"><i class="fa fa-users" aria-hidden="true"></i> Community</a></li> 
-                    <li><a href="contact.php"><i class="fa fa-phone" aria-hidden="true"></i> Contact</a></li>
+                    <li><a href="../blog.php"><i class="fa fa-pencil" aria-hidden="true"></i> Blog</a></li> 
+                    <li><a href="../community.php"><i class="fa fa-users" aria-hidden="true"></i> Community</a></li> 
+                    <li><a href="../contact.php"><i class="fa fa-phone" aria-hidden="true"></i> Contact</a></li>
                 </ul>
             </div>
         </div>
