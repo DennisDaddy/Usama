@@ -55,7 +55,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1 style="color: #D4AF37;">Awards and Nominations</h1>
+                    <h1>Awards and Nominations</h1>
                    
                 </div>
                 <div class="col-sm-6">
