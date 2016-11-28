@@ -77,7 +77,7 @@ session_start();
                 </div>
                 
                 <div class="form-group">
-                    <button class="btn btn-success btn-md btn-block">Login</button>
+                    <button name="login" class="btn btn-success btn-md btn-block">Login</button>
                 </div>
             </fieldset>
         </form>
