@@ -106,6 +106,12 @@
 Babirye, an adopted but raised a beloved twin daughter bends the story short when she twirls against her family's possessions and life including snatching her sister's hunky boyfriend Mac. The whole plot is brought to an end by the unexpected return of her brother Jason from the States and the strange disappearance of her sister Nakato. The truth is yet to be revealed in this never told tale.
 </p>
         <p>&nbsp;</p>
+        <hr>
+                  <p align="right"><b>Lets connect on social media.</b> <br><br>
+                        <a class="btn btn-social btn-facebook" href="https://www.facebook.com/OnlineUsama"><i class="icon-facebook"></i></a> 
+                        <a class="btn btn-social btn-google-plus" href="https://plus.google.com/+UsamaMukwaya"><i class="icon-google-plus"></i></a> 
+                        <a class="btn btn-social btn-twitter" href="https://twitter.com/usamamukwaya"><i class="icon-twitter"></i></a> 
+                                </p>
     </section><!--/#privacy-policy-->
 
     <section id="bottom" class="wet-asphalt">
