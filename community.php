@@ -77,8 +77,14 @@
                             <hr>
                           <h3 style="color: #d9534f; font-family: cursive;">Tales From EDYAC</h3>
                             <div class="post_video youtube"><iframe width="100%" height="450" src="https://www.youtube.com/embed/5A_8IcKaM9k" frameborder="0" allowfullscreen></iframe></div>
-                            <hr>
-        <p>&nbsp;</p>
+                <hr>
+            <p>&nbsp;</p>
+
+           <p align="right"><b>Lets connect on social media.</b> <br><br>
+                                        <a class="btn btn-social btn-facebook" href="https://www.facebook.com/OnlineUsama"><i class="icon-facebook"></i></a> 
+                                        <a class="btn btn-social btn-google-plus" href="https://plus.google.com/+UsamaMukwaya"><i class="icon-google-plus"></i></a> 
+                                        <a class="btn btn-social btn-twitter" href="https://twitter.com/usamamukwaya"><i class="icon-twitter"></i></a> 
+                                </p>
     </section><!--/#privacy-policy-->
 
     <section id="bottom" class="wet-asphalt">
