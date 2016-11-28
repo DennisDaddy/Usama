@@ -80,7 +80,7 @@
 
         <p>&nbsp;</p>
 
-        <h3 style="color: #d9534f; font-family: cursive;">In Just Hours       2013</h3>
+        <h3>In Just Hours       2013</h3>
         <p>Ssentongo Isaac as Peter, Allen Musumba, Veronica Nakayo, Shafique Ssenyange<br>
 
         Peter is about to be surprised by a mysterious, crude condition from the disease he has been suffering from. Weirdly the disease he is suffering from is only about to get fatal in the next few hours and if not treated quickly and carefully, he might not be sexually productive again.
