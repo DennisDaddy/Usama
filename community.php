@@ -32,7 +32,7 @@
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="index.php"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
-                    <li><a href="filmology.php"><i class="fa fa-film" aria-hidden="true"></i> Filmology</a></li>
+                    <li><a href="filmology.php"><i class="fa fa-film" aria-hidden="true"></i> Community</a></li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user" aria-hidden="true"></i> Osam <i class="icon-angle-down"></i></a>
                         <ul class="dropdown-menu">
@@ -56,14 +56,14 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Filmology</h1>
+                    <h1>Community</h1>
                     
                 </div>
                 <div class="col-sm-6">
                     <ul class="breadcrumb pull-right">
                         <li><a  href="index.php">Home</a></li>
                        
-                        <li  class="active">Filmology</li>
+                        <li  class="active">Community</li>
                     </ul>
                 </div>
             </div>
