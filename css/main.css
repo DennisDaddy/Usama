@@ -3,6 +3,20 @@
   *zoom: 1;
 }
 
+.home-thumb img:hover{
+  transform:scale(1.1);
+}
+
+.thumbnail img{
+  transition:all 0.3s ease 0s;
+  width: 100%;
+}
+
+.thumbnail{
+  overflow: hidden;
+}
+
+
 .emaradu{
    background-color:;
 }
