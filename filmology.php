@@ -111,6 +111,20 @@
 
 Babirye, an adopted but raised a beloved twin daughter bends the story short when she twirls against her family's possessions and life including snatching her sister's hunky boyfriend Mac. The whole plot is brought to an end by the unexpected return of her brother Jason from the States and the strange disappearance of her sister Nakato. The truth is yet to be revealed in this never told tale.
 </p>
+
+<h3>Iron Love                  2010</h3>
+        <p>Asiimwe Yvone, Kaliisa Raymond, Kaliisa Romeo Vincent, Tuhairwe
+Joab
+<br>
+
+This college drama rolls around Papito a college boy who dates a girl above his age and academic status. He sexually exploits her and even cheats her. In his pomp, he lures other campus girls including Bonita, Jocelyn’s best friend. Papito however doesn’t realize Jocelyn’s love for him until when he’s beaten up by a group of college boys to being hospitalized. None of the many girls he had as side dish ever visited him but only Joselyn took cared.
+</p>
+
+<h3>Pain of Lies        2010</h3>
+        <p>Faridah Kuteesa, Joshua Nyombi, Leila Nasanga, Usama Mukwaya, Ronald Karamuzi<br>
+
+Babirye, an adopted but raised a beloved twin daughter bends the story short when she twirls against her family's possessions and life including snatching her sister's hunky boyfriend Mac. The whole plot is brought to an end by the unexpected return of her brother Jason from the States and the strange disappearance of her sister Nakato. The truth is yet to be revealed in this never told tale.
+</p>
         <p>&nbsp;</p>
         <hr>
                   <p align="right"><b>Lets connect on social media.</b> <br><br>
