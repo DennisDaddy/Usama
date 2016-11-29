@@ -78,7 +78,7 @@
 
         An incredible story of boyfriend's battle for love through perseverance. In the outskirts of Sese Island, John (Micheal Kasaija) is madly in love with Maggie and both are willing to take their love forward. Facing abuses and harassments by malicious Maggie's father Kasirivu (Raymond Rushabiro), John, helped by his young brother Alex (Ssesanga Ismael) is determined to take in all but to retain the love of his life especially when he finds out that he has a contender village tycoon (Jabal Dungu) who is also lining up for Maggie.
         </p>
-        <div><iframe width="100%" height="450" src="https://www.youtube.com/embed/PMs77x0TQIA" frameborder="0" allowfullscreen></iframe></div>
+        <div><iframe width="100%" height="350" src="https://www.youtube.com/embed/PMs77x0TQIA" frameborder="0" allowfullscreen></iframe></div>
                             <br>
                             <hr>
                          
@@ -104,7 +104,7 @@
         <p>Kahunda Laura, John-Martin Ntabaazi, Katushabe Swiam<br>
             A countryside world of jealousy and possessiveness. A cheerful and passionately devoted couple of Kakumba and Rehma is introduced to the fanciful crazy world of telephone technology but this never goes well to what the phone might bring. After finding Rehma sweet talking on the phone on her farming grounds, Kakumba madly believes that her wife is cheating on him with some other man. A ruckus that is started by Kakumba involves in their neighbor Teresa who tries to make peace between the fighting couple but just as it aggravates, Kakumba receives a call from his niece.  Rehma can’t understand Kakumba’s flattery behaviors on the phone especially with the presence of her mordant neighbor Teresa who can’t seize emphasizing on what Kakumba has just done to Rehma.
             </p>
-
+            <div><iframe width="100%" height="350" src="https://www.youtube.com/embed/OqmFle84sBA" frameborder="0" allowfullscreen></iframe></div>
         <p>&nbsp;</p>
         <h3>Pain of Lies        2010</h3>
         <p>Faridah Kuteesa, Joshua Nyombi, Leila Nasanga, Usama Mukwaya, Ronald Karamuzi<br>
