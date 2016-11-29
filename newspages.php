@@ -165,7 +165,7 @@
                 ?>
                 <a href="blogpages.php?id=<?php echo $blog_id; ?>">
                  <p><b><?php echo $title; ?></b></p></a>
-                           <div class="thumbnail home-thumb">
+                           <div id="single_post">
                                 <img width="150" height="100" src='images2/uploads/<?php echo $image; ?>' >
                                 </div>
                                        
