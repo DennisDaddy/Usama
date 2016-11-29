@@ -115,7 +115,7 @@
                                 <p>Published On: <b><?php echo $post_date; ?></b></p>
                                 <p><i></i> <span>By: <b><?php echo $post_author; ?></b></span></p>
 
-                                <div id="single_post"> 
+                                <div class="thumbnail home-thumb"> 
                                    <img  src="images2/uploads/<?php echo $post_image; ?>" width="100%" height="500"/>
                                    </div>
                                  
