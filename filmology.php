@@ -78,6 +78,10 @@
 
         An incredible story of boyfriend's battle for love through perseverance. In the outskirts of Sese Island, John (Micheal Kasaija) is madly in love with Maggie and both are willing to take their love forward. Facing abuses and harassments by malicious Maggie's father Kasirivu (Raymond Rushabiro), John, helped by his young brother Alex (Ssesanga Ismael) is determined to take in all but to retain the love of his life especially when he finds out that he has a contender village tycoon (Jabal Dungu) who is also lining up for Maggie.
         </p>
+        <div><iframe width="100%" height="450" src="https://www.youtube.com/embed/PMs77x0TQIA" frameborder="0" allowfullscreen></iframe></div>
+                            <br>
+                            <hr>
+                         
         
 
         <p>&nbsp;</p>
