@@ -105,8 +105,8 @@
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="carousel-content center centered">
-                                    <h2 class="boxed animation animated-item-1">African Movie Academy Awards </h2>
-                                    <p class="boxed animation animated-item-2">Best Film in an African Language; 'Bala Bala Sese'. </p>
+                                    <h2 class="boxed animation animated-item-1">Movie Furnace Program  </h2>
+                                    <p class="boxed animation animated-item-2">Best Director 'In Just Hours'. </p>
                                     <br>
                                     <a class="btn btn-md animation animated-item-2" href="awards.php">Learn More</a>
                                 </div>
