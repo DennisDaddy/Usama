@@ -27,7 +27,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php"><h1 style="font-family:'Debevic Circular', serif; font-weight:700; color:#ff0000;">Usama Mukwaya</h1></a>
+                <a class="navbar-brand" href="index.php"><h3 style="font-family:'Debevic Circular', serif; color:#ff0000;">UsamaMukwaya.<span class="special-font" style="font-size:18px;">com</span></h3></a>
             </div>
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
@@ -72,30 +72,21 @@
 
     <section id="privacy-policy" class="container">
      
-        <h3>Bala Bala Sese      2015</h3>
-        <p>Natasha Sinayobye, Micheal Kasaija, Raymond Rushabiro, Ashraf Ssemwogere<br>
-        
+        <h3>Marimosa Foundation</h3>
+         <p>&nbsp;</p>
+          
 
-        An incredible story of boyfriend's battle for love through perseverance. In the outskirts of Sese Island, John (Micheal Kasaija) is madly in love with Maggie and both are willing to take their love forward. Facing abuses and harassments by malicious Maggie's father Kasirivu (Raymond Rushabiro), John, helped by his young brother Alex (Ssesanga Ismael) is determined to take in all but to retain the love of his life especially when he finds out that he has a contender village tycoon (Jabal Dungu) who is also lining up for Maggie.
+         <h3>The dream</h3>
+        <p>In the many days and darkness, I have encountered the high-quality and awful. Living with people around me who are in good shape but can’t unfold their hands to lend a hand, people with disabilities but never given a momentary look; but through all, I formed Marimosa Foundation to help visualizes a position where every person is in good shape, has a residence, and an opening to survive to their day’s aspiration.
         </p>
         
 
         <p>&nbsp;</p>
 
-        <h3>In Just Hours       2013</h3>
-        <p>Ssentongo Isaac as Peter, Allen Musumba, Veronica Nakayo, Shafique Ssenyange<br>
-
-        Peter is about to be surprised by a mysterious, crude condition from the disease he has been suffering from. Weirdly the disease he is suffering from is only about to get fatal in the next few hours and if not treated quickly and carefully, he might not be sexually productive again.
+        <h3>The duty </h3>
+        <p>Marimosa Foundation transforms calamity into accomplishments by making powerful the economically underprivileged to overcome misfortunes to achieve a better value of living.
         </p>
-
-        <p>&nbsp;</p>
-
-        <h3>She Likes Prada     2011</h3>
-        <p>Diana Kahunde, Ankur Rathee, Kato Lubega, Allen Komujini<br>
-
-            Wealthy Felix is married to Grace of the outstanding gorgeousness. To Grace, the matrimony is not a commitment but just only a road to her needs and benefits. She loves the Mercedes Benz.  She is more in love with shopping, good looks and anything trendy better than him especially her favorite label, Prada. She is so prepared to spend every penny Felix makes even with Daisy’s (Grace’s best friend) confrontations. Daisy too has alot more in common with her friend including changing boyfriends like nothing and now having a new one Jessie she is replacing with David who is taking her on Holiday to Mombasa.  When Felix announces that he has been diagnosed with liver cancer which has metastasized, he’s told that he could die if he doesn’t get enough or early treatment and Grace is a little not surprised even for the fact that he is going to die. Comes in Felix’s doctor; capable John, who has away-out for him through chemotherapy but it’s risky and very expensive that Grace won’t allow all the money to go just like that however important it might be for Felix. She has a lot to spend the money to like looking after herself-say breast fragmentation for his husband’s happiness than his unreliable liver cancer which may kill him if not treated in the proper description. However expensive the treatment is, she partners with attractive Doctor John to help her husband in a way that not even Felix can ever imagine. Taking in on the treatment is risky for Felix and so is for Grace’s beauty to be skipped by John! Grace succeeds in luring Dr John to do the treatment. She finally not only likes Prada, but she adores Dr Felix and still has alot to save from her soon dying husband’s fortune.  </p>
-
-        
+                
         <p>&nbsp;</p>
         <hr>
                   <p align="right"><b>Lets connect on social media.</b> <br><br>
@@ -109,46 +100,18 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3 col-sm-6">
-                    <h4>Latest News</h4>
-                     <div>
-                        <div class="media">
-                            <div class="pull-left">
-                                
-                            </div>
-                            <div class="media-body">
-                                <?php
-                include("includes/connect.php");
-            
-                $query = "select * from blog order by 1 DESC LIMIT 0,3";
-            
-                $run =mysqli_query($con,$query);
-            
-            while ($row=mysqli_fetch_array($run)) {
-            
-                $blog_id =$row['blog_id'];
-                $title =$row['blog_title'];
-                $blog_date =$row['blog_date'];
-                $image =$row['blog_image'];
-               
-                ?>
-                <a href="blogpages.php?id=<?php echo $blog_id; ?>">
-                       
-               <span class="media-heading"><?php echo $title; ?></span></a>
-                 <p><b><?php echo $blog_date; ?></b></p>
-                  
-                   
-            
-               
-                                
-                                 <?php } ?>
-                            
-                            </div>
-                        </div>
-                        
-                        
-                    </div>  
+                    <h4>O Studio</h4>
+                    <div>
+                        <ul class="arrow">
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#">About</a></li>
+                            <li><a href="#">Gallery</a></li>
+                            <li><a href="#">Our Services</a></li>
+                            <li><a href="#">Film</a></li>
+                            <li><a href="#">Conatct Us</a></li>
+                         </ul>
+                    </div>
                 </div><!--/.col-md-3-->
-
                 <div class="col-md-3 col-sm-6">
                     <h4>Custom Menu</h4>
                     <div>
