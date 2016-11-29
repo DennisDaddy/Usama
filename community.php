@@ -72,11 +72,11 @@
      
         <h3>Bala Bala Sese </h3>
         
-                            <div><iframe width="60%" height="450" src="https://www.youtube.com/embed/PMs77x0TQIA" frameborder="0" allowfullscreen></iframe></div>
+                            <div><iframe width="100%" height="450" src="https://www.youtube.com/embed/PMs77x0TQIA" frameborder="0" allowfullscreen></iframe></div>
                             <br>
                             <hr>
                           <h3>Tales From EDYAC</h3>
-                            <div class="post_video youtube"><iframe width="60%" height="450" src="https://www.youtube.com/embed/5A_8IcKaM9k" frameborder="0" allowfullscreen></iframe></div>
+                            <div class="post_video youtube"><iframe width="100%" height="450" src="https://www.youtube.com/embed/5A_8IcKaM9k" frameborder="0" allowfullscreen></iframe></div>
                 <hr>
             <p>&nbsp;</p>
 
