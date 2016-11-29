@@ -67,38 +67,20 @@
     <h1 align="center" >Welcome to Admin Area Panel</h1>
         <div class="row">
             <div class="col-sm-6">
-                <h2>What we are</h2>
-                <p>Family AIDS Initiative Response is a local NGO in Kenya addresses the challenges faced by children who have either been orphaned by AIDS or live with parents who are affected from AIDS-related illnesses.We are involved in implementing the Preventing Orphaning Initiative (TPOI) a programme funded by Family Health International and AphiaPlus. Through this project we have helped over 15,300 children with their education, providing school uniforms, textbooks, desks and chairs and writing materials. The programme also incorporates Linkages across the Continuum of HIV Services for Key Populations Affected by HIV (LINKAGES), we conduct a range of activities to reduce HIV transmission among key populations — sex workers, men who have sex with men, transgender persons and people who inject drugs — and to improve their enrollment and retention in care</p>
+                <div id="sidebar">
+    <h2><a href="logout.php">Logout</a></h2>
+    <h2><a href="view_posts.php">View News</a></h2>
+    <h2><a href="insert_post.php">Add News</a></h2>
+    <h2><a href="insert_blog.php">Add Blog post</a></h2>
+    <h2><a href="view_blog.php">View Blog Posts</a></h2>
+    
+</div> 
             </div><!--/.col-sm-6-->
             <div class="col-sm-6">
-                <h2>Our Skills</h2>
-                <div>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%;">
-                            <span>HTML/CSS</span>
-                        </div>
-                    </div>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%;">
-                            <span>Wordpress</span>
-                        </div>
-                    </div>
-                    <div class="progress">
-                        <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%;">
-                            <span>Joomla</span>
-                        </div>
-                    </div>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100" style="width: 55%;">
-                            <span>Drupal</span>
-                        </div>
-                    </div>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%;">
-                            <span>PHP</span>
-                        </div>
-                    </div>
-                </div>
+                <div id="welcome">
+<h1 style="color:black" >Welcome to your Admin Panel</h1>
+<p style="color:black">This is your admin panel where you can manage your website files and content </p>
+</div>
             </div><!--/.col-sm-6-->
         </div><!--/.row-->
 
