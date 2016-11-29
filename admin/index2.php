@@ -63,6 +63,7 @@
     
 
     <section id="about-us" class="container">
+    <h1 align="center" >Welcome to Admin Area Panel</h1>
         <div class="row">
             <div class="col-sm-6">
                 <h2>What we are</h2>
