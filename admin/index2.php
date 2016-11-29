@@ -60,22 +60,7 @@
         </div>
     </header><!--/header-->
 
-    <section id="title" class="emerald">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-6">
-                    <h1>About Us</h1>
-                   
-                </div>
-                <div class="col-sm-6">
-                    <ul class="breadcrumb pull-right">
-                        <li><a href="index.html">Home</a></li>
-                        <li class="active">About Us</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section><!--/#title-->
+    
 
     <section id="about-us" class="container">
         <div class="row">
