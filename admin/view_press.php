@@ -34,29 +34,29 @@
 
 <?php 
 include("includes/connect.php");
-$query = "select * from posts order by 1 DESC";
+$query = "select * from press order by 1 DESC";
 $run = mysqli_query($con,$query);
 while ($row=mysqli_fetch_array($run)) {
 	# code...
-	$post_id =$row['post_id'];
-	$post_date =$row['post_date'];
-	$post_author =$row['post_author'];
-	$post_title =$row['post_title'];
-	$post_image =$row['post_image'];
-	$post_content =substr($row['post_content'],0,100);
+	$press_id =$row['press_id'];
+	$press_date =$row['press_date'];
+	$press_author =$row['press_author'];
+	$press_title =$row['press_title'];
+	$press_image =$row['press_image'];
+	$press_content =substr($row['press_content'],0,100);
 	
 
 ?>
 
 <tr align="center" > 
-	<td><?php echo $post_id; ?></td>
-	<td><?php echo $post_date; ?></td>
-	<td><?php echo $post_author; ?></td>
-	<td><?php echo $post_title; ?></td>
-	<td><img src="../images/<?php echo $post_image; ?>"width="80" height="80" </td>
-	<td><?php echo $post_content; ?></td>
-	<td><a href="delete.php?del=<?php echo $post_id; ?>">Delete</a></td>
-	<td><a href="edit_posts.php?edit=<?php echo $post_id; ?>">Edit</a></td>
+	<td><?php echo $press_id; ?></td>
+	<td><?php echo $press_date; ?></td>
+	<td><?php echo $press_author; ?></td>
+	<td><?php echo $press_title; ?></td>
+	<td><img src="../images/<?php echo $press_image; ?>"width="80" height="80" </td>
+	<td><?php echo $press_content; ?></td>
+	<td><a href="delete_press.php?del=<?php echo $press_id; ?>">Delete</a></td>
+	
 	
 </tr> 
 <?php } ?>
