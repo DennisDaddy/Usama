@@ -9,7 +9,7 @@
 </script
 </head>
 <body>
-<form method="post" action="insert_post.php" enctype="multipart/form-data">
+<form method="post" action="insert_press.php" enctype="multipart/form-data">
 	<table  width="600" align="center" border="3">
 	<tr>
 		<td align="center" bgcolor="white" colspan="6"><h1>Insert New Press Here</h1></td>
