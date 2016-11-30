@@ -59,26 +59,26 @@ include("includes/connect.php");
 
 if (isset($_POST['submit'])) {
 	# code...
-	 $post_title =$_POST['title'];
-	 $post_date =date('y-m-d');
-	 $post_author =$_POST['author'];
-	 $post_keywords =$_POST['keywords'];
-	 $post_content =$_POST['content'];
-	 $post_image =$_FILES['image']['name'];
+	 $press_title =$_POST['title'];
+	 $press_date =date('y-m-d');
+	 $press_author =$_POST['author'];
+	 $press_keywords =$_POST['keywords'];
+	 $press_content =$_POST['content'];
+	 $press_image =$_FILES['image']['name'];
 	  $image_tmp =$_FILES['image']['tmp_name'];
 
-	 if ($post_title=='' or $post_keywords=='' or $post_content=='' or $post_author=='') {
+	 if ($press_title=='' or $press_keywords=='' or $press_content=='' or $press_author=='') {
 	 	# code...
 	 	echo "<script>alert('any of the fields is empty')</script";
 	 	exit();
 	 }
 
 	 else{
-	 	move_uploaded_file($image_tmp,"../images/$post_image");
-	 	$insert_query ="insert into posts(post_title,post_date,post_author,post_image,post_keywords,post_content) values('$post_title','$post_date','$post_author','$post_image','$post_keywords','$post_content')";  
+	 	move_uploaded_file($image_tmp,"../images/$press_image");
+	 	$insert_query ="insert into press(press_title,press_date,press_author,press_image,press_keywords,press_content) values('$press_title','$press_date','$press_author','$press_image','$press_keywords','$press_content')";  
 	 	if (mysqli_query($con,$insert_query)) {
 	 		# code...
-	 		echo "<script> alert('post Published successfuly!')</script>";
+	 		echo "<script> alert('Press Published successfuly!')</script>";
 	 		echo "<script> window.open('view_posts.php','_self')</script>";
 	 	}
 	 }
