@@ -80,17 +80,17 @@
                      <p><i>The following are awards and nominations Usama has received throught his career.</i></p>
                                 <h3><b>Winner:</b></h3>
 
-                                    <h4><b>Young Achievers Awards</b> –Young Achiever in Film and Television 2011 </h4>
+                                    <h4><b>Young Achievers Awards</b> –<i>Young Achiever in Film and Television 2011</i> </h4>
                                    
-                                    <h4><b>Movie Furnace Program</b> – Best Director 'In Just Hours'    2013  </h4>
+                                    <h4><b>Movie Furnace Program</b> – <i>Best Director 'In Just Hours'    2013  </i></h4>
                                     
                                     <h3><b>Nominations:</b></h3>
-                                    <h4><b>MNFPAC Awards</b> - Best Screenwriter; 'Hello'     2010</h4>
-                                    <h4><b>Luxor African Film Festival</b> – Long Features; 'Bala Bala Sese'  2016 </h4>
+                                    <h4><b>MNFPAC Awards</b> - <i>Best Screenwriter; 'Hello'     2010</i></h4>
+                                    <h4><b>Luxor African Film Festival</b> – <i>Long Features; 'Bala Bala Sese'  2016 </i></h4>
 
-                                    <h4><b>Helsinki African Film Festival</b> – Jury Award for Human Rights and Social Commentary. ‘Bala Bala Sese' 2016  </h4>
-                                    <h4><b>Amakula Int’l Film Festival</b> – Best African Film; 'Bala Bala Sese'  2016 </h4>
-                                     <h4><b>African Movie Academy Awards</b> – Best Film in an African Language; 'Bala Bala Sese'           2016 </h4>
+                                    <h4><b>Helsinki African Film Festival</b> – <i>Jury Award for Human Rights and Social Commentary. ‘Bala Bala Sese' 2016 </i> </h4>
+                                    <h4><b>Amakula Int’l Film Festival</b> – <i>Best African Film; 'Bala Bala Sese'  2016 </i></h4>
+                                     <h4><b>African Movie Academy Awards</b> – <i>Best Film in an African Language; 'Bala Bala Sese'           2016 </i></h4>
                                    <h4><b>African International Film Festival</b> – <i>Best Film; 'Bala Bala Sese'     2016 </i> </h4>
 
                     </div>
