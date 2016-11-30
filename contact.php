@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Usama Mukwaya | Contact Us</title>
+    <title>Usama Mukwaya | Contact</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/prettyPhoto.css" rel="stylesheet">
@@ -212,7 +212,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                     <p>All Rights Reserved | Usam Mukwaya  &copy; <?php echo date("Y"); ?> |  <a href="admin/login.php"><i class="icon-lock"></i>  Admin Login</a></p>
+                     <p>All Rights Reserved | Usama  Mukwaya  &copy; <?php echo date("Y"); ?> |  <a href="admin/login.php"><i class="icon-lock"></i>  Admin Login</a></p>
 
                 </div>
                 <div class="col-sm-6">
