@@ -78,20 +78,20 @@
                 <div>
                 <h2><b>Awards</b></h2>
                      <p><i>The following are awards and nominations Usama has received throught his career.</i></p>
-                                <h3><b>Winner</b></h3>
+                                <h3><b>Winner:</b></h3>
 
-                                    <h4>Young Achievers Awards –Young Achiever in Film and Television 2011 </h4>
+                                    <h4><b>Young Achievers Awards</b> –Young Achiever in Film and Television 2011 </h4>
                                    
-                                    <h4>Movie Furnace Program – Best Director 'In Just Hours'    2013  </h4>
+                                    <h4><b>Movie Furnace Program</b> – Best Director 'In Just Hours'    2013  </h4>
                                     
-                                    <h3>Nominations:</h3>
-                                    <h4>MNFPAC Awards - Best Screenwriter; 'Hello'     2010</h4>
-                                    <h4>Luxor African Film Festival – Long Features; 'Bala Bala Sese'  2016 </h4>
+                                    <h3><b>Nominations:</b></h3>
+                                    <h4><b>MNFPAC Awards</b> - Best Screenwriter; 'Hello'     2010</h4>
+                                    <h4><b>Luxor African Film Festival</b> – Long Features; 'Bala Bala Sese'  2016 </h4>
 
-                                    <h4>Helsinki African Film Festival – Jury Award for Human Rights and Social Commentary. ‘Bala Bala Sese' 2016  </h4>
-                                    <h4>Amakula Int’l Film Festival – Best African Film; 'Bala Bala Sese'  2016 </h4>
-                                     <h4>African Movie Academy Awards – Best Film in an African Language; 'Bala Bala Sese'           2016 </h4>
-                                   <h4>African International Film Festival – Best Film; 'Bala Bala Sese'     2016  </h4>
+                                    <h4><b>Helsinki African Film Festival</b> – Jury Award for Human Rights and Social Commentary. ‘Bala Bala Sese' 2016  </h4>
+                                    <h4><b>Amakula Int’l Film Festival</b> – Best African Film; 'Bala Bala Sese'  2016 </h4>
+                                     <h4><b>African Movie Academy Awards</b> – Best Film in an African Language; 'Bala Bala Sese'           2016 </h4>
+                                   <h4><b>African International Film Festival</b> – <i>Best Film; 'Bala Bala Sese'     2016 </i> </h4>
 
                     </div>
                 </div>
