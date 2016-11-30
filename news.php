@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>UsamaMukwaya | News</title>
+    <title>UsamaMukwaya | Press</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/prettyPhoto.css" rel="stylesheet">
@@ -66,13 +66,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>News</h1>
+                    <h1>Press</h1>
                    
                 </div>
                 <div class="col-sm-6">
                     <ul class="breadcrumb pull-right">
                         <li><a  href="index.php">Home</a></li>
-                        <li  class="active">News</li>
+                        <li  class="active">Press</li>
                     </ul>
                 </div>
             </div>
@@ -204,7 +204,7 @@
                     <div>
                         <ul class="arrow">
                             <li><a href="filmology.php">Filmology</a></li>
-                            <li><a href="news.php">News</a></li>
+                            <li><a href="news.php">Press</a></li>
                             <li><a href="awards.php">Awards</a></li>
                              <li><a href="gallery.php">Gallery</a></li>
                             <li><a href="blog.php">Blog</a></li>
