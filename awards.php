@@ -27,7 +27,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php"><h1 style="font-family:'Debevic Circular', serif; font-weight:700; color:#ff0000;">Usama Mukwaya</h1></a>
+                <a class="navbar-brand" href="index.php"><h3 style="font-family:'Debevic Circular', serif; color:#ff0000;">UsamaMukwaya.<span class="special-font" style="font-size:18px;">com</span></h3></a>
             </div>
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
@@ -38,8 +38,9 @@
                         <ul class="dropdown-menu">
                            <li><a href="osam.php"><i class="fa fa-user" aria-hidden="true"></i> Osam</a></li>
                            <li><a href="news.php"><i class="fa fa-newspaper-o" aria-hidden="true"></i> Press</a></li>
+                            <li><a href="awards.php"><i class="fa fa-gift" aria-hidden="true"></i> Awards</a></li>
                            <li><a href="gallery.php"><i class="fa fa-picture-o" aria-hidden="true"></i> Gallery</a></li>
-                           <li><a href="awards.php"><i class="fa fa-gift" aria-hidden="true"></i> Awards</a></li>
+                          
                         </ul>
                     </li>
                     <li><a href="blog.php"><i class="fa fa-pencil" aria-hidden="true"></i> Blog</a></li> 
@@ -234,7 +235,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                     <p>&copy; <?php echo date("Y"); ?> | Usam Mukwaya |  All Rights Reserved. |  <a href="admin/login.php"><i class="icon-lock"></i>  Admin Login</a></p>
+                     <p>All Rights Reserved | Usam Mukwaya  &copy; <?php echo date("Y"); ?> |  <a href="admin/login.php"><i class="icon-lock"></i>  Admin Login</a></p>
 
                 </div>
                 <div class="col-sm-6">
