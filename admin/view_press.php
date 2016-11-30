@@ -22,14 +22,14 @@
 </tr>
 
 <tr bgcolor="orange">
-	<th>Post No</th>
-	<th>Post Date</th>
-	<th>Post Author</th>
-	<th>Post Title</th>
-	<th>Post Image</th>
-	<th>Post Content</th>
-	<th>Delete Post</th>
-	<th>Edit Post</th>
+	<th>Press No</th>
+	<th>Press Date</th>
+	<th>Press Author</th>
+	<th>Press Title</th>
+	<th>Press Image</th>
+	<th>Press Content</th>
+	<th>Delete Press</th>
+	<th>Edit Press</th>
 </tr> 
 
 <?php 
