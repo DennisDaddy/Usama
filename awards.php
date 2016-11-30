@@ -78,7 +78,7 @@
                 <div>
                 <h2><b>Awards</b></h2>
                      <p><i>The following are awards and nominations Usama has received throught his career.</i></p>
-                                <h3>Winner</h3>
+                                <h3><b>Winner</b></h3>
 
                                     <h4>Young Achievers Awards –Young Achiever in Film and Television 2011 </h4>
                                    
