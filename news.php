@@ -185,45 +185,18 @@
    <section id="bottom" class="wet-asphalt">
         <div class="container">
             <div class="row">
-                <div class="col-md-3 col-sm-6">
-                    <h4>Latest News</h4>
-                     <div>
-                        <div class="media">
-                            <div class="pull-left">
-                                
-                            </div>
-                            <div class="media-body">
-                                <?php
-                include("includes/connect.php");
-            
-                $query = "select * from blog order by 1 DESC LIMIT 0,3";
-            
-                $run =mysqli_query($con,$query);
-            
-            while ($row=mysqli_fetch_array($run)) {
-            
-                $blog_id =$row['blog_id'];
-                $title =$row['blog_title'];
-                $blog_date =$row['blog_date'];
-                $image =$row['blog_image'];
-               
-                ?>
-                <a href="blogpages.php?id=<?php echo $blog_id; ?>">
-                       
-               <span class="media-heading"><?php echo $title; ?></span></a>
-                 <p><b><?php echo $blog_date; ?></b></p>
-                  
-                   
-            
-               
-                                
-                                 <?php } ?>
-                            
-                            </div>
-                        </div>
-                        
-                        
-                    </div>  
+<div class="col-md-3 col-sm-6">
+                    <h4>O Studio</h4>
+                    <div>
+                        <ul class="arrow">
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#">About</a></li>
+                            <li><a href="#">Gallery</a></li>
+                            <li><a href="#">Our Services</a></li>
+                            <li><a href="#">Film</a></li>
+                            <li><a href="#">Conatct Us</a></li>
+                         </ul>
+                    </div>
                 </div><!--/.col-md-3-->
 
                 <div class="col-md-3 col-sm-6">
