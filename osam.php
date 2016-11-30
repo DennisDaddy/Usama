@@ -72,10 +72,10 @@
      <h3>BIOGRAPHY</h3>
      <p>&nbsp;</p>
 
-     <img  src="images/blog/osam.jpg" width="100%" height="500" />
-     <p>&nbsp;</p>
+     
+     
        
-        <p>Some people around me believe I have achieved all that it takes to be a thriving filmmaker but to me, it’s more history to make in the budding Ugandan film industry. I still believe that I will meet some of my favorite inspirations and hopefully do projects with them.<br>
+        <p> <img  src="images/blog/osam.jpg" class="img-square pull-left" width="45%" style="margin:5px 15px 10px;" />Some people around me believe I have achieved all that it takes to be a thriving filmmaker but to me, it’s more history to make in the budding Ugandan film industry. I still believe that I will meet some of my favorite inspirations and hopefully do projects with them.<br>
         Being the second and third born of Abdullah and Mariam, I can never be more blessed to be born from the Pearl of Africa. Well this is my story.<br>
         When I stood out from the many pupils of Linnet Primary School and emerged the best performer in the parents’ day activities, the small me knew that had it got it all. However it this established a strong go ahead in all my following performing arts activities including later an exhibition participation in the first Banana fiber contemporary mosaics 2009, Makerere University Art department.<br>
         I remember the first time I attempted on writing was September 2005 where I started with Replica as my breakthrough script originally written as a feature which I have just recently accomplished to a high school drama series. <br>
