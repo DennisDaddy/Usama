@@ -71,7 +71,7 @@
     </section><!--/#title--> 
 
     <section id="privacy-policy" class="container">
-     <img  src="images/blog/boo.jpg" width="100%" height="450" />
+     
         <h3>Bala Bala Sese      2015</h3>
         <p>Natasha Sinayobye, Micheal Kasaija, Raymond Rushabiro, Ashraf Ssemwogere<br>
         
