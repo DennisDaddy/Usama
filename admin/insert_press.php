@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Insert Post</title>
+	<title>Insert Press</title>
 	<script src="//tinymce.cachefly.net/4.0/tinymce.min.js"></script>
 <script>
     tinymce.init({selector:'textarea'});
@@ -12,30 +12,30 @@
 <form method="post" action="insert_post.php" enctype="multipart/form-data">
 	<table  width="600" align="center" border="3">
 	<tr>
-		<td align="center" bgcolor="white" colspan="6"><h1>Insert New Post Here</h1></td>
+		<td align="center" bgcolor="white" colspan="6"><h1>Insert New Press Here</h1></td>
 	</tr>
 
 	<tr>
-		<td align="right">Post Title</td>
+		<td align="right">Press Title</td>
 		<td><input type="text" name="title" size="30"></td>
 	</tr>
 
 	<tr>
-		<td align="right">Post Author</td>
+		<td align="right">Press Author</td>
 		<td><input type="text" name="author" size="30"></td>
 	</tr>
 
 	<tr>
-		<td align="right">Post Keywords</td>
+		<td align="right">Press Keywords</td>
 		<td><input type="text" name="keywords" size="30"></td>
 	</tr>
 
 	<tr>
-		<td align="right">Post Image</td>
+		<td align="right">Press Image</td>
 		<td><input type="file" name="image"></td>
 	</tr>
 	<tr>
-		<td align="right">Post Content</td>
+		<td align="right">Press Content</td>
 		<td><textarea name="content" cols="30" rows="15"></textarea></td>
 	</tr>
 
