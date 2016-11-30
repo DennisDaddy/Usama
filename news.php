@@ -39,7 +39,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php"><h1 style="font-family:'Debevic Circular', serif; font-weight:700; color:#ff0000;">Usama Mukwaya</h1></a>
+                <a class="navbar-brand" href="index.php"><h3 style="font-family:'Debevic Circular', serif; color:#ff0000;">UsamaMukwaya.<span class="special-font" style="font-size:18px;">com</span></h3></a>
             </div>
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
@@ -49,7 +49,7 @@
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user" aria-hidden="true"></i> Osam <i class="icon-angle-down"></i></a>
                         <ul class="dropdown-menu">
                            <li><a href="osam.php"><i class="fa fa-user" aria-hidden="true"></i> Osam</a></li>
-                           <li><a href="news.php"><i class="fa fa-newspaper-o" aria-hidden="true"></i> News</a></li>
+                           <li><a href="news.php"><i class="fa fa-newspaper-o" aria-hidden="true"></i> Press</a></li>
                            <li><a href="gallery.php"><i class="fa fa-picture-o" aria-hidden="true"></i> Gallery</a></li>
                            <li><a href="awards.php"><i class="fa fa-gift" aria-hidden="true"></i> Awards</a></li>
                         </ul>

@@ -27,7 +27,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php"><h1 style="font-family:'Debevic Circular', serif; font-weight:700; color:#ff0000;">Usama Mukwaya</h1></a>
+                <a class="navbar-brand" href="index.php"><<h3 style="font-family:'Debevic Circular', serif; color:#ff0000;">UsamaMukwaya.<span class="special-font" style="font-size:18px;">com</span></h3></a>
             </div>
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
