@@ -12,7 +12,7 @@
 
 <div id="sidebar">
 	<h2><a href="logout.php">Logout</a></h2>
-	<h2><a href="view_posts.php">View Press</a></h2>
+	<h2><a href="view_press.php">View Press</a></h2>
 	<h2><a href="index.php?insert=insert">Add Press</a></h2>
 	
 </div> 
