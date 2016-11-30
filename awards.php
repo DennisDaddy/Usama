@@ -74,8 +74,9 @@
             <img src="images/blog/me 1b.jpg" width="100%" height="600" />
              </div><!--/.col-sm-6-->
             <div class="col-sm-4">
-                <h2>Awards</h2>
+                
                 <div>
+                <h2><b>Awards</b></h2>
                      <p><i>The following are awards and nominations Usama has received throught his career.</i></p>
                                 <h3>Winner</h3>
 
@@ -89,8 +90,8 @@
 
                                     <h4>Helsinki African Film Festival – Jury Award for Human Rights and Social Commentary. ‘Bala Bala Sese' 2016  </h4>
                                     <h4>Amakula Int’l Film Festival – Best African Film; 'Bala Bala Sese'  2016 </h4>
-     <h4>African Movie Academy Awards – Best Film in an African Language; 'Bala Bala Sese'           2016 </h4>
-<h4>African International Film Festival – Best Film; 'Bala Bala Sese'     2016  </h4>
+                                     <h4>African Movie Academy Awards – Best Film in an African Language; 'Bala Bala Sese'           2016 </h4>
+                                   <h4>African International Film Festival – Best Film; 'Bala Bala Sese'     2016  </h4>
 
                     </div>
                 </div>
