@@ -77,12 +77,21 @@
                 <h2>Awards</h2>
                 <div>
                      <p><i>The following are awards and nominations Usama has received throught his career.</i></p>
-                                    <h4>Nominee – MFAPAC Awards 2010</h4>
-                                    <h5>Best Screenplay - Hello</h5>
-                                    <h4>Winner – Young Achievers Awards 2011</h4>
-                                    <h5>Film and Television</h5>
-                                    <h4>Winner – Movie Furnace 2013</h4>
-                                    <h4>Best Director - In Just Hours</h4>
+                                <h3>Winner</h3>
+
+                                    <h4>Young Achievers Awards –Young Achiever in Film and Television 2011 </h4>
+                                   
+                                    <h4>Movie Furnace Program – Best Director 'In Just Hours'    2013  </h4>
+                                    
+                                    <h3>Nominations:</h3>
+                                    <h4>MNFPAC Awards - Best Screenwriter; 'Hello'     2010</h4>
+                                    <h4>Luxor African Film Festival – Long Features; 'Bala Bala Sese'  2016 </h4>
+
+                                    <h4>Helsinki African Film Festival – Jury Award for Human Rights and Social Commentary. ‘Bala Bala Sese' 2016  </h4>
+                                    <h4>Amakula Int’l Film Festival – Best African Film; 'Bala Bala Sese'  2016 </h4>
+     <h4>African Movie Academy Awards – Best Film in an African Language; 'Bala Bala Sese'           2016 </h4>
+<h4>African International Film Festival – Best Film; 'Bala Bala Sese'     2016  </h4>
+
                     </div>
                 </div>
             </div><!--/.col-sm-6-->
