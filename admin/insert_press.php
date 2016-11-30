@@ -79,7 +79,7 @@ if (isset($_POST['submit'])) {
 	 	if (mysqli_query($con,$insert_query)) {
 	 		# code...
 	 		echo "<script> alert('Press Published successfuly!')</script>";
-	 		echo "<script> window.open('view_posts.php','_self')</script>";
+	 		echo "<script> window.open('view_press.php','_self')</script>";
 	 	}
 	 }
 }
