@@ -38,7 +38,7 @@
                         <ul class="dropdown-menu">
                         <li><a href="osam.php">Osam</a></li>
                            <li><a href="osam.php"><i class="fa fa-user" aria-hidden="true"></i> Osam</a></li>
-                           <li><a href="news.php"><i class="fa fa-newspaper-o" aria-hidden="true"></i> News</a></li>
+                           <li><a href="news.php"><i class="fa fa-newspaper-o" aria-hidden="true"></i> Press</a></li>
                            <li><a href="gallery.php"><i class="fa fa-picture-o" aria-hidden="true"></i> Gallery</a></li>
                            <li><a href="awards.php"><i class="fa fa-gift" aria-hidden="true"></i> Awards</a></li>
                         </ul>
