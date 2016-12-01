@@ -106,13 +106,13 @@
 				  <li class="sub-menu">
                       <a href="view_posts.php" class="">
                           <i class="fa fa-eye" aria-hidden="true"></i>
-                          <span>View News</span>
+                          <span>View Press</span>
                           </a>                      
                   </li>       
                   <li class="sub-menu">
                       <a href="insert_post.php" class="">
                           <i class="fa fa-plus" aria-hidden="true"></i>
-                          <span>Add News</span>
+                          <span>Add Press</span>
                          
                       </a>
                       
