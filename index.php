@@ -284,7 +284,7 @@
                 </div><!--/.col-md-3-->
 
                 <div class="col-md-3 col-sm-6">
-                    <h4>Custom Menu</h4>
+                    <h4>Usama  Mukwaya</h4>
                     <div>
                         <ul class="arrow">
                             <li><a href="filmology.php">Filmology</a></li>
