@@ -205,7 +205,7 @@
                     <div>
                         <ul class="arrow">
                             <li><a href="filmology.php">Filmology</a></li>
-                            <li><a href="news.php">Press</a></li>
+                            <li><a href="press.php">Press</a></li>
                             <li><a href="awards.php">Awards</a></li>
                              <li><a href="gallery.php">Gallery</a></li>
                             <li><a href="blog.php">Blog</a></li>
