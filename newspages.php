@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
+    <meta name="description" content="Welcome to Usama Mukwaya Official website  award winning Ugandan filmmaker, He is a Ugandan film director, screenwriter, producer, actor, and television host.">
     <meta name="author" content="">
     <title>UsamaMukwaya | Press</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
