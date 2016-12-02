@@ -132,6 +132,7 @@ Babirye, an adopted but raised a beloved twin daughter bends the story short whe
                         <a class="btn btn-social btn-google-plus" href="https://plus.google.com/+UsamaMukwaya"><i class="icon-google-plus"></i></a> 
                         <a class="btn btn-social btn-twitter" href="https://twitter.com/usamamukwaya"><i class="icon-twitter"></i></a> 
                         <a class="btn btn-social btn-google-plus" href="https://plus.google.com/+UsamaMukwaya"><i class="fa fa-youtube" aria-hidden="true"></i></a> 
+                        <a href="https://www.instagram.com/usamamukwaya/"><img src="images/ico/instagram.png">
 
                                 </p>
     </section><!--/#privacy-policy-->
