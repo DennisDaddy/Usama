@@ -67,7 +67,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Press</h1>
+                    <h1>News</h1>
                    
                 </div>
                 <div class="col-sm-6">
