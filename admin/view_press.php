@@ -128,13 +128,13 @@
                   </li>
 
                   <li>
-                      <a class="" href="insert_blog.php">
+                      <a class="" href="insert_press.php">
                           <i class="fa fa-plus" aria-hidden="true"></i>
                           <span>Add Press</span>
                       </a>
                   </li>
                   <li>                     
-                      <a class="" href="view_blog.php">
+                      <a class="" href="view_press.php">
                           <i class="fa fa-eye" aria-hidden="true"></i>
                           <span>View Press</span>
                           
