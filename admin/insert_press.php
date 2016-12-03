@@ -133,7 +133,7 @@
                   </li>
 
                    <li>                     
-                      <a class="" href="view_blog.php">
+                      <a class="" href="view_press.php">
                           <i class="fa fa-eye" aria-hidden="true"></i>
                           <span>View Press</span>
                           
@@ -164,7 +164,7 @@
          
           <ol class="breadcrumb">
             <li><i class="fa fa-home"></i><a href="index.php">Home</a></li>
-            <li><i class="fa fa-laptop"></i>Add Blog Posts</li> 
+            <li><i class="fa fa-laptop"></i>Add Press</li> 
             </ol>   
 
 <body>
@@ -172,7 +172,7 @@
  <div class="table-responsive"> 
 	<table  width="600" align="center" border="3">
 	<tr>
-		<td align="center" bgcolor="white" colspan="6"><h1>Insert New Blog Post Here</h1></td>
+		<td align="center" bgcolor="white" colspan="6"><h1>Insert New Press Here</h1></td>
 	</tr>
 
 	<tr>
