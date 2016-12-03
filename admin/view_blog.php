@@ -126,6 +126,21 @@
                       </a>
                                          
                   </li>
+
+                   <li>
+                      <a class="" href="insert_press.php">
+                          <i class="fa fa-plus" aria-hidden="true"></i>
+                          <span>Add Add Press</span>
+                      </a>
+                  </li>
+                  <li>                     
+                      <a class="" href="view_press.php">
+                          <i class="fa fa-eye" aria-hidden="true"></i>
+                          <span>View  Press</span>
+                          
+                      </a>
+                                         
+                  </li>
                              
                   <li class="sub-menu">
                       <a href="logout.php" class="">

@@ -334,7 +334,7 @@ if (isset($_POST['submit'])) {
 	 	if (mysqli_query($con,$insert_query)) {
 	 		# code...
 	 		echo "<script> alert('post Published successfuly!')</script>";
-	 		echo "<script> window.open('view_blog.php','_self')</script>";
+	 		echo "<script> window.open('view_press.php','_self')</script>";
 	 	}
 	 }
 }
