@@ -92,38 +92,38 @@
                                <?php
                             include("includes/connect.php");
 
-                            $select_posts ="select * from posts order by rand() LIMIT 0,4";
+                            $select_posts ="select * from press order by rand() LIMIT 0,4";
 
                             $run_posts =mysqli_query($con,$select_posts);
 
                             while ($row=mysqli_fetch_array($run_posts)) {
-                                $post_id =$row['post_id'];
-                                $post_title =$row['post_title'];
-                                $post_date =$row['post_date'];
-                                $post_author =$row['post_author'];
-                                $post_image =$row['post_image'];
-                                $post_content =substr($row['post_content'],0,500);
+                                $press_id =$row['press_id'];
+                                $press_title =$row['press_title'];
+                                $press_date =$row['press_date'];
+                                $press_author =$row['press_author'];
+                                $press_image =$row['post_image'];
+                                $press_content =substr($row['press_content'],0,500);
                                                            
 
                             ?>
                                 
                                 <h2> 
-                                    <a href="newspages.php?id=<?php echo $post_id; ?>">
-                                      <?php echo $post_title; ?>
+                                    <a href="presspages.php?id=<?php echo $press_id; ?>">
+                                      <?php echo $press_title; ?>
                                     </a>
                                 </h2>
 
-                                <p>Published On: <b><?php echo $post_date; ?></b></p>
-                                <p><i></i> <span>By: <b><?php echo $post_author; ?></b></span></p>
+                                <p>Published On: <b><?php echo $press_date; ?></b></p>
+                                <p><i></i> <span>By: <b><?php echo $press_author; ?></b></span></p>
 
                                 <div class="thumbnail home-thumb"> 
-                                   <img  src="images2/uploads/<?php echo $post_image; ?>" width="100%" height="500"/>
+                                   <img  src="images2/uploads/<?php echo $press_image; ?>" width="100%" height="500"/>
                                    </div>
                                  
 
-                                <p align="justify"><?php echo $post_content; ?></p>
+                                <p align="justify"><?php echo $press_content; ?></p>
 
-                                <p align="right"> <a href="newspages.php?id=<?php echo $post_id; ?>" class="btn btn-primary readmore">// Read More &gt;<i class="fa fa-angle-right"></i></a></p>
+                                <p align="right"> <a href="presspages.php?id=<?php echo $press_id; ?>" class="btn btn-primary readmore">// Read More &gt;<i class="fa fa-angle-right"></i></a></p>
                                 <hr>
 
 
