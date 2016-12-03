@@ -33,6 +33,11 @@
     <link href="css/style-responsive.css" rel="stylesheet" />
 	<link href="css/xcharts.min.css" rel=" stylesheet">	
 	<link href="css/jquery-ui-1.10.4.min.css" rel="stylesheet">
+	<script src="//tinymce.cachefly.net/4.0/tinymce.min.js"></script>
+	<script>
+	    tinymce.init({selector:'textarea'});
+
+	</script>
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 -->
     <!--[if lt IE 9]>
       <script src="js/html5shiv.js"></script>
@@ -66,7 +71,7 @@
                     <li class="dropdown">
                         <a data-toggle="dropdown" class="dropdown-toggle" href="#">
                             <span class="profile-ava">
-                                <img alt="" src="img/avatar3.png">
+                                 <img alt="" src="img/avatar3.png">
                             </span>
                             <span class="username">Admin</span>
                             <b class="caret"></b>
@@ -101,13 +106,13 @@
 				  <li class="sub-menu">
                       <a href="view_posts.php" class="">
                           <i class="fa fa-eye" aria-hidden="true"></i>
-                          <span>View News</span>
+                          <span>View Press</span>
                           </a>                      
                   </li>       
                   <li class="sub-menu">
                       <a href="insert_post.php" class="">
                           <i class="fa fa-plus" aria-hidden="true"></i>
-                          <span>Add News</span>
+                          <span>Add Press</span>
                          
                       </a>
                       
@@ -126,21 +131,6 @@
                       </a>
                                          
                   </li>
-
-                  <li>
-                      <a class="" href="insert_blog.php">
-                          <i class="fa fa-plus" aria-hidden="true"></i>
-                          <span>Add Press</span>
-                      </a>
-                  </li>
-                  <li>                     
-                      <a class="" href="view_blog.php">
-                          <i class="fa fa-eye" aria-hidden="true"></i>
-                          <span>View Press</span>
-                          
-                      </a>
-                                         
-                  </li>
                              
                   <li class="sub-menu">
                       <a href="logout.php" class="">
@@ -155,21 +145,61 @@
           </div>
       </aside>
       <!--sidebar end-->
-      
+      <!--main content start-->
       <!--main content start-->
       <section id="main-content">
       <section class="wrapper">            
               <!--overview start-->
         <div class="row">
         <div class="col-lg-12">
-          <h3 class="page-header"><i class="fa fa-laptop"></i> Dashboard</h3>
+         
           <ol class="breadcrumb">
             <li><i class="fa fa-home"></i><a href="index.php">Home</a></li>
-            <li><i class="fa fa-laptop"></i>Dashboard</li>                
-          </ol>
-          <h2 align="center" >Welcome to your Admin Panel</h2>
-          <p align="center">This is your admin panel where you can manage your website files and content </p>
-        </div>
+            <li><i class="fa fa-laptop"></i>Add Blog Posts</li> 
+            </ol>   
+
+<body>
+<form method="post" action="insert_blog.php" enctype="multipart/form-data" role = "form">
+ <div class="table-responsive"> 
+	<table  width="600" align="center" border="3">
+	<tr>
+		<td align="center" bgcolor="white" colspan="6"><h1>Insert New Blog Post Here</h1></td>
+	</tr>
+
+	<tr>
+		<td align="right"><b>Blog Title:</b></td>
+		<td><input type="text" name="title" size="30"></td>
+	</tr>
+
+	<tr>
+		<td align="right"><b>Blog Author:</b></td>
+		<td><input type="text" name="author" size="30"></td>
+	</tr>
+
+	<tr>
+		<td align="right"><b>Blog Keywords:</b></td>
+		<td><input type="text" name="keywords" size="30"></td>
+	</tr>
+
+	<tr>
+		<td align="right"><b>Blog Image:</b></td>
+		<td><input type="file" name="image"></td>
+	</tr>
+	<tr>
+		<td align="right"><b>Blog Content:</b></td>
+		<td><textarea class = "form-control" name="content" cols="30" rows="15"></textarea></td>
+	</tr>
+
+	<tr>
+		
+		<td align="center" colspan="6"><input type="submit" name="submit" value="Publish Now"></td>
+	</tr>
+		
+	</table>
+	</div>
+</form>
+
+</div>
       </div>
           
       </section>
@@ -177,9 +207,9 @@
   </section>
   <!-- container section start -->
 
-    <!-- javascripts -->
+<!-- javascripts -->
     <script src="js/jquery.js"></script>
-	<script src="js/jquery-ui-1.10.4.min.js"></script>
+  <script src="js/jquery-ui-1.10.4.min.js"></script>
     <script src="js/jquery-1.8.3.min.js"></script>
     <script type="text/javascript" src="js/jquery-ui-1.9.2.custom.min.js"></script>
     <!-- bootstrap -->
@@ -194,29 +224,29 @@
     <script src="js/owl.carousel.js" ></script>
     <!-- jQuery full calendar -->
     <<script src="js/fullcalendar.min.js"></script> <!-- Full Google Calendar - Calendar -->
-	<script src="assets/fullcalendar/fullcalendar/fullcalendar.js"></script>
+  <script src="assets/fullcalendar/fullcalendar/fullcalendar.js"></script>
     <!--script for this page only-->
     <script src="js/calendar-custom.js"></script>
-	<script src="js/jquery.rateit.min.js"></script>
+  <script src="js/jquery.rateit.min.js"></script>
     <!-- custom select -->
     <script src="js/jquery.customSelect.min.js" ></script>
-	<script src="assets/chart-master/Chart.js"></script>
+  <script src="assets/chart-master/Chart.js"></script>
    
     <!--custome script for all page-->
     <script src="js/scripts.js"></script>
     <!-- custom script for this page-->
     <script src="js/sparkline-chart.js"></script>
     <script src="js/easy-pie-chart.js"></script>
-	<script src="js/jquery-jvectormap-1.2.2.min.js"></script>
-	<script src="js/jquery-jvectormap-world-mill-en.js"></script>
-	<script src="js/xcharts.min.js"></script>
-	<script src="js/jquery.autosize.min.js"></script>
-	<script src="js/jquery.placeholder.min.js"></script>
-	<script src="js/gdp-data.js"></script>	
-	<script src="js/morris.min.js"></script>
-	<script src="js/sparklines.js"></script>	
-	<script src="js/charts.js"></script>
-	<script src="js/jquery.slimscroll.min.js"></script>
+  <script src="js/jquery-jvectormap-1.2.2.min.js"></script>
+  <script src="js/jquery-jvectormap-world-mill-en.js"></script>
+  <script src="js/xcharts.min.js"></script>
+  <script src="js/jquery.autosize.min.js"></script>
+  <script src="js/jquery.placeholder.min.js"></script>
+  <script src="js/gdp-data.js"></script>  
+  <script src="js/morris.min.js"></script>
+  <script src="js/sparklines.js"></script>  
+  <script src="js/charts.js"></script>
+  <script src="js/jquery.slimscroll.min.js"></script>
   <script>
 
       //knob
@@ -244,24 +274,24 @@
       $(function(){
           $('select.styled').customSelect();
       });
-	  
-	  /* ---------- Map ---------- */
-	$(function(){
-	  $('#map').vectorMap({
-	    map: 'world_mill_en',
-	    series: {
-	      regions: [{
-	        values: gdpData,
-	        scale: ['#000', '#000'],
-	        normalizeFunction: 'polynomial'
-	      }]
-	    },
-		backgroundColor: '#eef3f7',
-	    onLabelShow: function(e, el, code){
-	      el.html(el.html()+' (GDP - '+gdpData[code]+')');
-	    }
-	  });
-	});
+    
+    /* ---------- Map ---------- */
+  $(function(){
+    $('#map').vectorMap({
+      map: 'world_mill_en',
+      series: {
+        regions: [{
+          values: gdpData,
+          scale: ['#000', '#000'],
+          normalizeFunction: 'polynomial'
+        }]
+      },
+    backgroundColor: '#eef3f7',
+      onLabelShow: function(e, el, code){
+        el.html(el.html()+' (GDP - '+gdpData[code]+')');
+      }
+    });
+  });
 
 
 
@@ -269,3 +299,34 @@
 
   </body>
 </html>
+<?php
+include("includes/connect.php");
+
+if (isset($_POST['submit'])) {
+	# code...
+	 $blog_title =$_POST['title'];
+	 $blog_date =date('y-m-d');
+	 $blog_author =$_POST['author'];
+	 $blog_keywords =$_POST['keywords'];
+	 $blog_content =$_POST['content'];
+	 $blog_image =$_FILES['image']['name'];
+	  $image_tmp =$_FILES['image']['tmp_name'];
+
+	 if ($blog_title=='' or $blog_keywords=='' or $blog_content=='' or $blog_author=='') {
+	 	# code...
+	 	echo "<script>alert('any of the fields is empty')</script";
+	 	exit();
+	 }
+
+	 else{
+	 	move_uploaded_file($image_tmp,"../images2/uploads/$blog_image");
+	 	$insert_query ="insert into blog(blog_title,blog_date,blog_author,blog_image,blog_keywords,blog_content) values('$blog_title','$blog_date','$blog_author','$blog_image','$blog_keywords','$blog_content')";  
+	 	if (mysqli_query($con,$insert_query)) {
+	 		# code...
+	 		echo "<script> alert('post Published successfuly!')</script>";
+	 		echo "<script> window.open('view_blog.php','_self')</script>";
+	 	}
+	 }
+}
+
+?>
