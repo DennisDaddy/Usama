@@ -176,26 +176,26 @@
 	</tr>
 
 	<tr>
-		<td align="right"><b>Blog Title:</b></td>
+		<td align="right"><b>Press Title:</b></td>
 		<td><input type="text" name="title" size="30"></td>
 	</tr>
 
 	<tr>
-		<td align="right"><b>Blog Author:</b></td>
+		<td align="right"><b>Press Author:</b></td>
 		<td><input type="text" name="author" size="30"></td>
 	</tr>
 
 	<tr>
-		<td align="right"><b>Blog Keywords:</b></td>
+		<td align="right"><b>Press Keywords:</b></td>
 		<td><input type="text" name="keywords" size="30"></td>
 	</tr>
 
 	<tr>
-		<td align="right"><b>Blog Image:</b></td>
+		<td align="right"><b>Press Image:</b></td>
 		<td><input type="file" name="image"></td>
 	</tr>
 	<tr>
-		<td align="right"><b>Blog Content:</b></td>
+		<td align="right"><b>Press Content:</b></td>
 		<td><textarea class = "form-control" name="content" cols="30" rows="15"></textarea></td>
 	</tr>
 
