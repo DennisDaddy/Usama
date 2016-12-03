@@ -91,18 +91,18 @@
                             if (isset($_GET['id'])) {
                                 # code...
                                 $page_id =$_GET['id'];
-                                $select_query = "select * from posts where post_id='$page_id'";
+                                $select_query = "select * from press where press_id='$page_id'";
                             }
                             $run_query =mysqli_query($con,$select_query);
 
                             while ($row=mysqli_fetch_array($run_query)) {
                                 # code...
-                                $post_id =$row['post_id'];
-                                $post_title =$row['post_title'];
-                                $post_date =$row['post_date'];
-                                $post_author =$row['post_author'];
-                                $post_image =$row['post_image'];
-                                $post_content =$row['post_content'];
+                                $press_id =$row['press_id'];
+                                $press_title =$row['press_title'];
+                                $press_date =$row['press_date'];
+                                $press_author =$row['press_author'];
+                                $press_image =$row['press_image'];
+                                $press_content =$row['press_content'];
                                 
 
 
@@ -110,20 +110,20 @@
                          ?>
                                 
                                 <h2> 
-                                    <a href="postpages.php?id=<?php echo $post_id; ?>">
-                                      <?php echo $post_title; ?>
+                                    <a href="postpages.php?id=<?php echo $press_id; ?>">
+                                      <?php echo $press_title; ?>
                                     </a>
                                 </h2>
 
-                                <p>Published On: <b><?php echo $post_date; ?></b></p>
-                                <p><i></i> <span>By: <b><?php echo $post_author; ?></b></span></p>
+                                <p>Published On: <b><?php echo $press_date; ?></b></p>
+                                <p><i></i> <span>By: <b><?php echo $press_author; ?></b></span></p>
 
                                  <div class="thumbnail home-thumb">                                
-                                <img  src="images2/uploads/<?php echo $post_image; ?>" width="100%"  height="550"  />
+                                <img  src="images2/uploads/<?php echo $press_image; ?>" width="100%"  height="550"  />
                                 </div>
                                  
 
-                                <p align="justify"><?php echo $post_content; ?></p>
+                                <p align="justify"><?php echo $press_content; ?></p>
 
                                 
                                 <hr>
