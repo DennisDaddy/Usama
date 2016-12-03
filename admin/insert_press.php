@@ -168,7 +168,7 @@
             </ol>   
 
 <body>
-<form method="post" action="insert_blog.php" enctype="multipart/form-data" role = "form">
+<form method="post" action="insert_press.php" enctype="multipart/form-data" role = "form">
  <div class="table-responsive"> 
 	<table  width="600" align="center" border="3">
 	<tr>
