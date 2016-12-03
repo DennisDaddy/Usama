@@ -101,7 +101,7 @@
                                 $press_title =$row['press_title'];
                                 $press_date =$row['press_date'];
                                 $press_author =$row['press_author'];
-                                $press_image =$row['post_image'];
+                                $press_image =$row['press_image'];
                                 $press_content =substr($row['press_content'],0,500);
                                                            
 
