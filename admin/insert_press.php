@@ -131,6 +131,15 @@
                       </a>
                                          
                   </li>
+
+                   <li>                     
+                      <a class="" href="view_blog.php">
+                          <i class="fa fa-eye" aria-hidden="true"></i>
+                          <span>View Press</span>
+                          
+                      </a>
+                                         
+                  </li>
                              
                   <li class="sub-menu">
                       <a href="logout.php" class="">
